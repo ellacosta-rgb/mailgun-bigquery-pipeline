@@ -1,19 +1,41 @@
 import requests
 import json
 import os
+import sys
 from datetime import datetime, timedelta, timezone
+from tenacity import retry, stop_after_attempt, wait_exponential
 
-# Compute yesterday's date window in RFC 2822 format
-today = datetime.now(timezone.utc)
-yesterday = today - timedelta(days=1)
+# Use passed date or default to yesterday
+if len(sys.argv) > 1:
+    target_date = datetime.strptime(sys.argv[1], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+else:
+    target_date = datetime.now(timezone.utc) - timedelta(days=1)
 
-start = "Wed, 27 May 2026 00:00:00 -0000"
-end = "Thu, 28 May 2026 00:00:00 -0000"
+start = target_date.strftime("%a, %d %b %Y 00:00:00 -0000")
+end = (target_date + timedelta(days=1)).strftime("%a, %d %b %Y 00:00:00 -0000")
 
 print(f"Fetching logs from {start} to {end}")
 
 # API credentials
 api_key = os.environ.get("MAILGUN_API_KEY")
+
+@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, min=2, max=60))
+def fetch_page(pagination):
+    response = requests.post(
+        "https://api.mailgun.net/v1/analytics/logs",
+        auth=("api", api_key),
+        json={
+            "start": start,
+            "end": end,
+            "include_subaccounts": True,
+            "include_totals": True,
+            "pagination": pagination
+        }
+    )
+    if response.status_code == 429:
+        print("Rate limited, retrying...")
+        raise Exception("Rate limited")
+    return response
 
 # Paginate through all results
 all_records = []
@@ -27,33 +49,7 @@ while True:
     if token:
         pagination["token"] = token
 
-    response = requests.post(
-        "https://api.mailgun.net/v1/analytics/logs",
-        auth=("api", api_key),
-        json={
-            "start": start,
-            "end": end,
-            "filter": {
-                "AND": [
-                    {
-                        "attribute": "domain",
-                        "comparator": "=",
-                        "values": [
-                            {
-                                "label": "peratonjobalerts.com",
-                                "value": "peratonjobalerts.com"
-                            }
-                        ]
-                    }
-                ]
-            },
-            "events": ["accepted", "delivered", "failed", "opened", "clicked", "unsubscribed", "complained"],
-            "include_subaccounts": True,
-            "include_totals": True,
-            "pagination": pagination
-        }
-    )
-    print(response.json())
+    response = fetch_page(pagination)
     data = response.json()
     items = data.get("items", [])
     all_records.extend(items)
@@ -66,8 +62,22 @@ while True:
 
     page += 1
 
+#Summary of the data
+from collections import Counter
+
+event_counts = Counter(record.get("event") for record in all_records)
+non_empty_user_vars = sum(1 for record in all_records if record.get("user-variables") not in [None, {}, ""])
+print("\n--- Summary ---")
+print(f"Time range: {start} to {end}")
+print(f"Total records: {len(all_records)}")
+print("\nBreakdown by event type:")
+for event, count in sorted(event_counts.items()):
+    print(f"  {event}: {count}")
+print(f"\nRecords with non-empty user-variables: {non_empty_user_vars} / {len(all_records)}")
+print("--- End Summary ---\n")
+
 # Save to JSON file
-output_filename = f"mailgun_logs_{yesterday.strftime('%Y-%m-%d')}.json"
+output_filename = f"mailgun_logs_{target_date.strftime('%Y-%m-%d')}.json"
 with open(output_filename, "w") as f:
     json.dump(all_records, f, indent=2)
 
