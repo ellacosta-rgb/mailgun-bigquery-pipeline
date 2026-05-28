@@ -7,8 +7,8 @@ from datetime import datetime, timedelta, timezone
 today = datetime.now(timezone.utc)
 yesterday = today - timedelta(days=1)
 
-start = yesterday.strftime("%a, %d %b %Y 00:00:00 -0000")
-end = today.strftime("%a, %d %b %Y 00:00:00 -0000")
+start = "Wed, 27 May 2026 00:00:00 -0000"
+end = "Thu, 28 May 2026 00:00:00 -0000"
 
 print(f"Fetching logs from {start} to {end}")
 
