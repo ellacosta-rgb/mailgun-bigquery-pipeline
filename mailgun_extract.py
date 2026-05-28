@@ -47,6 +47,7 @@ while True:
                     }
                 ]
             },
+            "events": ["accepted", "delivered", "failed", "opened", "clicked", "unsubscribed", "complained"],
             "include_subaccounts": True,
             "include_totals": True,
             "pagination": pagination
