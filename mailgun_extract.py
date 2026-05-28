@@ -33,6 +33,20 @@ while True:
         json={
             "start": start,
             "end": end,
+            "filter": {
+                "AND": [
+                    {
+                        "attribute": "domain",
+                        "comparator": "=",
+                        "values": [
+                            {
+                                "label": "peratonjobalerts.com",
+                                "value": "peratonjobalerts.com"
+                            }
+                        ]
+                    }
+                ]
+            },
             "include_subaccounts": True,
             "include_totals": True,
             "pagination": pagination
