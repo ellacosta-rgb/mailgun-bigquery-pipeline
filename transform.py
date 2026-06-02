@@ -88,8 +88,8 @@ for record in records:
     }
 
     # Add job fields for up to 5 jobs
-    #for i in range(5):
-     #   row.update(get_job_fields(jobs_raw, i))
+    for i in range(5):
+       row.update(get_job_fields(jobs_raw, i))
 
     rows.append(row)
 
@@ -100,11 +100,7 @@ print("\nColumns:")
 for col in df.columns:
     print(f"  {col}")
 
-print("\nSample row:")
-print(df.iloc[0])
-
-# Check job_count values
-print("\nJob count value counts:")
-print(df['job_count'].value_counts())
-
-
+# Show a sample row that has job data
+sample_with_jobs = df[df['job_1_title'].notna()].iloc[0]
+print("\nSample row with jobs:")
+print(sample_with_jobs)
