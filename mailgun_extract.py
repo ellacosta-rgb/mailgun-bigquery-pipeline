@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import sys
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from tenacity import retry, stop_after_attempt, wait_exponential
 
@@ -18,6 +19,10 @@ print(f"Fetching logs from {start} to {end}")
 
 # API credentials
 api_key = os.environ.get("MAILGUN_API_KEY")
+print(f"Key starts with: {api_key[:8]}")
+if not api_key:
+    print("Error: MAILGUN_API_KEY environment variable is not set", file=sys.stderr)
+    sys.exit(1)
 
 @retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, min=2, max=60))
 def fetch_page(pagination):
@@ -35,6 +40,9 @@ def fetch_page(pagination):
     if response.status_code == 429:
         print("Rate limited, retrying...")
         raise Exception("Rate limited")
+    if response.status_code == 401:
+        print("Error: Invalid API key")
+        sys.exit(1)
     return response
 
 # Paginate through all results
@@ -62,17 +70,18 @@ while True:
 
     page += 1
 
-#Summary of the data
-from collections import Counter
-
+# Summary
 event_counts = Counter(record.get("event") for record in all_records)
 non_empty_user_vars = sum(1 for record in all_records if record.get("user-variables") not in [None, {}, ""])
+
 print("\n--- Summary ---")
 print(f"Time range: {start} to {end}")
 print(f"Total records: {len(all_records)}")
 print("\nBreakdown by event type:")
-for event, count in sorted(event_counts.items()):
-    print(f"  {event}: {count}")
+event_order = ["accepted", "delivered", "opened", "clicked", "failed"]
+for event in event_order:
+    if event in event_counts:
+        print(f"  {event}: {event_counts[event]}")
 print(f"\nRecords with non-empty user-variables: {non_empty_user_vars} / {len(all_records)}")
 print("--- End Summary ---\n")
 
