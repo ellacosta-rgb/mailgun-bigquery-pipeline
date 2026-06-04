@@ -122,11 +122,10 @@ job = client.load_table_from_dataframe(df, staging_table_ref, job_config=job_con
 job.result()
 print(f"Loaded {job.output_rows} rows to staging table")
 
-# Now MERGE from staging into production, deduplicating on id
 merge_query = f"""
 MERGE `{PROJECT_ID}.{DATASET_ID}.email_events` T
 USING `{staging_table_ref}` S
-ON T.id = S.id AND T.event = S.event
+ON T.id = S.id AND T.event = S.event AND T.event_timestamp = S.event_timestamp
 WHEN NOT MATCHED THEN
   INSERT ROW
 """
@@ -135,6 +134,19 @@ print("Running MERGE into production table...")
 query_job = client.query(merge_query)
 query_job.result()
 print(f"MERGE complete!")
+
+# Check counts after merge
+debug_query = f"""
+SELECT DATE(event_timestamp) as date, COUNT(*) as count 
+FROM `{PROJECT_ID}.{DATASET_ID}.email_events` 
+GROUP BY 1 
+ORDER BY 1
+"""
+debug_job = client.query(debug_query)
+debug_result = list(debug_job.result())
+print("Rows by date after MERGE:")
+for row in debug_result:
+    print(f"  {row.date}: {row.count}")
 
 # Clean up staging table
 client.delete_table(staging_table_ref)
@@ -146,9 +158,3 @@ count_job = client.query(count_query)
 result = list(count_job.result())
 print(f"\nTotal rows in production table: {result[0].total}")
 
-# Write to BigQuery
-print(f"\nWriting {len(df)} records to BigQuery...")
-job = client.load_table_from_dataframe(df, table_ref, job_config=job_config)
-job.result()  # Wait for the job to complete
-
-print(f"Successfully loaded {job.output_rows} rows to {table_ref}")
