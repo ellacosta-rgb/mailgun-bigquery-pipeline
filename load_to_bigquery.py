@@ -6,7 +6,7 @@ from google.api_core.exceptions import NotFound
 from google.cloud import bigquery
 
 #Configure BigQuery client
-PROJECT_ID = "hireclix-cdn"
+PROJECT_ID = "hireclix"
 DATASET_ID = "mailgun_analytics"
 TABLE_ID = "email_events"
 
