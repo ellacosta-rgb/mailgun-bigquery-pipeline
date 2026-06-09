@@ -50,6 +50,8 @@ schema = [
     bigquery.SchemaField("location", "STRING", mode="REPEATED"),
     bigquery.SchemaField("position_type", "STRING", mode="REPEATED"),
     bigquery.SchemaField("workplace", "STRING", mode="REPEATED"),
+    bigquery.SchemaField("email_type", "STRING"),
+    bigquery.SchemaField("is_unsubscribe_click", "BOOLEAN"),
     bigquery.SchemaField("payload", "STRING"),
     bigquery.SchemaField("job_1_title", "STRING"),
     bigquery.SchemaField("job_1_url", "STRING"),
@@ -100,7 +102,18 @@ table.clustering_fields = ["event", "domain"]
 
 # Create the table (won't fail if it already exists)
 table = client.create_table(table, exists_ok=True)
-print(f"Table {table_ref} created successfully")
+
+# Add any new columns to an existing table
+table = client.get_table(table_ref)
+existing_field_names = {field.name for field in table.schema}
+new_fields = [field for field in schema if field.name not in existing_field_names]
+if new_fields:
+    table.schema = list(table.schema) + new_fields
+    table = client.update_table(table, ["schema"])
+    added = ", ".join(field.name for field in new_fields)
+    print(f"Added columns to {table_ref}: {added}")
+
+print(f"Table {table_ref} ready")
 print(f"Partitioned by: event_timestamp")
 print(f"Clustered by: event, domain")
 
@@ -122,12 +135,22 @@ job = client.load_table_from_dataframe(df, staging_table_ref, job_config=job_con
 job.result()
 print(f"Loaded {job.output_rows} rows to staging table")
 
+merge_keys = {"id", "event", "event_timestamp"}
+column_names = ", ".join(field.name for field in schema)
+update_set = ", ".join(
+    f"{field.name} = S.{field.name}"
+    for field in schema
+    if field.name not in merge_keys
+)
 merge_query = f"""
 MERGE `{PROJECT_ID}.{DATASET_ID}.email_events` T
 USING `{staging_table_ref}` S
 ON T.id = S.id AND T.event = S.event AND T.event_timestamp = S.event_timestamp
+WHEN MATCHED THEN
+  UPDATE SET {update_set}
 WHEN NOT MATCHED THEN
-  INSERT ROW
+  INSERT ({column_names})
+  VALUES ({", ".join(f"S.{field.name}" for field in schema)})
 """
 
 print("Running MERGE into production table...")

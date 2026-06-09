@@ -6,6 +6,34 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 from tenacity import retry, stop_after_attempt, wait_exponential
 
+
+def parse_user_variables(uv):
+    if not uv:
+        return {}
+    if isinstance(uv, str):
+        try:
+            return json.loads(uv)
+        except json.JSONDecodeError:
+            return {}
+    return uv
+
+
+def classify_email_type(record, uv):
+    subject = (record.get("message") or {}).get("headers", {}).get("subject", "") or ""
+    if "Welcome" in subject and "Job Alert" in subject:
+        return "signup"
+    if "job_count" in uv or subject.startswith("Your Weekly Job Alert"):
+        return "alert"
+    return "other"
+
+
+def is_unsubscribe_click(record):
+    return (
+        record.get("event") == "clicked"
+        and "unsubscribe" in (record.get("url") or "").lower()
+    )
+
+
 # Use passed date or default to yesterday
 if len(sys.argv) > 1:
     target_date = datetime.strptime(sys.argv[1], "%Y-%m-%d").replace(tzinfo=timezone.utc)
@@ -73,6 +101,14 @@ while True:
 # Summary
 event_counts = Counter(record.get("event") for record in all_records)
 non_empty_user_vars = sum(1 for record in all_records if record.get("user-variables") not in [None, {}, ""])
+email_type_counts = Counter()
+unsubscribe_clicks = 0
+
+for record in all_records:
+    uv = parse_user_variables(record.get("user-variables"))
+    email_type_counts[classify_email_type(record, uv)] += 1
+    if is_unsubscribe_click(record):
+        unsubscribe_clicks += 1
 
 print("\n--- Summary ---")
 print(f"Time range: {start} to {end}")
@@ -83,6 +119,11 @@ for event in event_order:
     if event in event_counts:
         print(f"  {event}: {event_counts[event]}")
 print(f"\nRecords with non-empty user-variables: {non_empty_user_vars} / {len(all_records)}")
+print("\nBreakdown by email type:")
+for email_type in ["signup", "alert", "other"]:
+    if email_type in email_type_counts:
+        print(f"  {email_type}: {email_type_counts[email_type]}")
+print(f"\nUnsubscribe clicks: {unsubscribe_clicks}")
 print("--- End Summary ---\n")
 
 # Save to JSON file

@@ -41,6 +41,25 @@ def parse_user_variables(uv):
             return {}
     return uv
 
+def classify_email_type(record, uv):
+    """Classify Peraton job alert emails: signup, alert, or other."""
+    subject = (record.get("message") or {}).get("headers", {}).get("subject", "") or ""
+
+    if "Welcome" in subject and "Job Alert" in subject:
+        return "signup"
+    if "job_count" in uv or subject.startswith("Your Weekly Job Alert"):
+        return "alert"
+    return "other"
+
+
+def is_unsubscribe_click(record):
+    """True when the event is a click on an unsubscribe link."""
+    return (
+        record.get("event") == "clicked"
+        and "unsubscribe" in (record.get("url") or "").lower()
+    )
+
+
 def get_job_fields(jobs_raw, job_index):
     """Extract fields for a specific job by index."""
     if not jobs_raw:
@@ -95,7 +114,11 @@ for record in records:
         "position_type": parse_json_list(uv.get("position_type")),
         "workplace": parse_json_list(uv.get("workplace")),
 
-        # Full payload
+        # Email classification
+        "email_type": classify_email_type(record, uv),
+        "is_unsubscribe_click": is_unsubscribe_click(record),
+
+        # Full payload (JSON string for BigQuery JSON column)
         "payload": json.dumps(record),
     }
 
@@ -108,6 +131,9 @@ for record in records:
 df = pd.DataFrame(rows)
 
 print(f"\nDataframe shape: {df.shape}")
+print("\nEmail type breakdown:")
+print(df["email_type"].value_counts().to_string())
+print(f"Unsubscribe clicks: {df['is_unsubscribe_click'].sum()}")
 print("\nColumns:")
 for col in df.columns:
     print(f"  {col}")
