@@ -131,14 +131,17 @@ for record in records:
 df = pd.DataFrame(rows)
 
 print(f"\nDataframe shape: {df.shape}")
-print("\nEmail type breakdown:")
-print(df["email_type"].value_counts().to_string())
-print(f"Unsubscribe clicks: {df['is_unsubscribe_click'].sum()}")
-print("\nColumns:")
-for col in df.columns:
-    print(f"  {col}")
+if len(df) > 0:
+    print("\nEmail type breakdown:")
+    print(df["email_type"].value_counts().to_string())
+    print(f"Unsubscribe clicks: {df['is_unsubscribe_click'].sum()}")
+    print("\nColumns:")
+    for col in df.columns:
+        print(f"  {col}")
 
-# Show a sample row that has job data
-sample_with_jobs = df[df['job_1_title'].notna()].iloc[0]
-print("\nSample row with jobs:")
-print(sample_with_jobs)
+    sample_with_jobs = df[df['job_1_title'].notna()]
+    if len(sample_with_jobs) > 0:
+        print("\nSample row with jobs:")
+        print(sample_with_jobs.iloc[0])
+else:
+    print("No records to transform.")

@@ -123,6 +123,10 @@ from transform import df, target_date as transform_date
 # Write to BigQuery using MERGE for idempotency
 print(f"\nWriting {len(df)} records to BigQuery...")
 
+if len(df) == 0:
+    print("No records to load. Skipping BigQuery write.")
+    sys.exit(0)
+
 # First write to a temporary staging table
 staging_table_ref = f"{PROJECT_ID}.{DATASET_ID}.email_events_staging"
 

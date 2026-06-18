@@ -1,0 +1,3947 @@
+[
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "Chrome",
+      "client-os": "Windows",
+      "client-type": "browser",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    "geolocation": {
+      "city": "Charleston",
+      "country": "US",
+      "region": "SC",
+      "timezone": "America/New_York"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260610113052.5131a877929a0642@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "i-delivery-optimizer": "combined_heatmap",
+    "delivered-at": "Thu, 11 Jun 2026 00:27:35 +0000",
+    "id": "tdPha55rSoeeZsHR9IGiBg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"f94d5740-31cc-4655-806f-6c8462fec700\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\"]\",\"job_count\":\"2\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/join-peraton-it-professionals-developers-admins-architects-tallahassee-fl-tallahassee-florida-166169-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=2\\\",\\\"location\\\":\\\"Florida\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Join Peraton - IT Professionals Developers, Admins, Architects (Tallahassee, FL)\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/join-peraton-build-the-network-that-powers-floridas-future-tampa-florida-163243-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=2\\\",\\\"location\\\":\\\"Florida\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Join Peraton - Build the network that powers Florida's future.\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"Florida\\\"]\",\"position_type\":\"[\\\"Part Time\\\",\\\"Full Time\\\"]\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\",\\\"On-Site\\\"]\"}",
+    "recipient": "tlcaliph@gmail.com",
+    "ip": "172.253.15.236",
+    "url": "https://www.careers.peraton.com/search-jobs?",
+    "event": "clicked",
+    "@timestamp": "2026-06-16T00:00:01.604Z",
+    "sort-values": [
+      1781568001604,
+      "tdPha55rSoeeZsHR9IGiBg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "Chrome",
+      "client-os": "Windows",
+      "client-type": "browser",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260529153622.eeea5ec3a4fe0f9d@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Fri, 29 May 2026 15:36:22 +0000",
+    "id": "kP_d4cmYRQSJOfvei769jA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"f94d5740-31cc-4655-806f-6c8462fec700\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\"]\",\"email\":\"TLCALIPH@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"Florida\\\"]\",\"position_type\":\"[\\\"Part Time\\\",\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: Florida | Type: Part Time, Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: No Clearance, Public Trust (sent weekly)\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\",\\\"On-Site\\\"]\"}",
+    "recipient": "TLCALIPH@gmail.com",
+    "ip": "173.194.92.189",
+    "url": "https://www.careers.peraton.com/",
+    "event": "clicked",
+    "@timestamp": "2026-06-16T00:00:11.802Z",
+    "sort-values": [
+      1781568011802,
+      "kP_d4cmYRQSJOfvei769jA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Durham",
+      "country": "US",
+      "region": "NC",
+      "timezone": "America/New_York"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260520113104.f7ad9b251d7aa13e@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "i-delivery-optimizer": "combined_heatmap",
+    "delivered-at": "Wed, 20 May 2026 17:02:06 +0000",
+    "id": "N0i9WjWYTxiWKYg0u_IrtQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"4640bc2d-14b0-488c-8b5f-c36d2cc2fe41\",\"category\":\"[]\",\"clearance\":\"[\\\"Top Secret/SCI\\\"]\",\"job_count\":\"5\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/senior-network-engineer-washington-d-c-166972-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=100\\\",\\\"location\\\":\\\"D.C.\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Senior Network Engineer\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/information-systems-security-engineer-sme-cloud-based-active-top-secret-washington-d-c-166916-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=100\\\",\\\"location\\\":\\\"D.C.\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Information Systems Security Engineer - SME/Cloud-based / Active Top Secret\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/information-systems-security-officer-sr-cloud-active-top-secret-washington-d-c-166918-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=3\\u0026count=100\\\",\\\"location\\\":\\\"D.C.\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Information Systems Security Officer \u2013 Sr Cloud / Active Top Secret\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/it-project-lead-sme-active-top-secret-washington-d-c-166919-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=4\\u0026count=100\\\",\\\"location\\\":\\\"D.C.\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"IT Project Lead - SME / active Top Secret\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/manager-trade-compliance-reston-virginia-166716-jobs--business-controls--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=5\\u0026count=100\\\",\\\"location\\\":\\\"Virginia\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Manager, Trade Compliance\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"D.C.\\\",\\\"Virginia\\\"]\",\"position_type\":\"[]\",\"workplace\":\"[]\"}",
+    "recipient": "attiafiriel@gmail.com",
+    "ip": "104.28.77.175",
+    "event": "opened",
+    "@timestamp": "2026-06-16T00:00:26.453Z",
+    "sort-values": [
+      1781568026453,
+      "N0i9WjWYTxiWKYg0u_IrtQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "Heejae.choi01@gmail.com",
+        "message-id": "20260616000611.618c951b9de4b456@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 733
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQcK9KVSj4o0DIZDXLYuqL9bDt-MYw",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQcK9KVSj4o0DIZDXLYuqL9bDt-MYw"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "Heejae.choi01@gmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "44.210.80.92",
+    "recipient-domain": "gmail.com",
+    "id": "BU9lzWTiQ2mszL6z8mOVQA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"1f90d949-1dd5-4396-bc2f-0ab0f5d656b0\",\"category\":[],\"clearance\":[],\"email\":\"Heejae.choi01@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Armed Forces Pacific\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Armed Forces Pacific (sent weekly)\",\"workplace\":[]}",
+    "recipient": "Heejae.choi01@gmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T00:06:11.468Z",
+    "sort-values": [
+      1781568371468,
+      "BU9lzWTiQ2mszL6z8mOVQA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "Heejae.choi01@gmail.com",
+        "message-id": "20260616000611.618c951b9de4b456@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 733
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQcK9KVSj4o0DIZDXLYuqL9bDt-MYw",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQcK9KVSj4o0DIZDXLYuqL9bDt-MYw"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 OK  1781568372 6a1803df08f44-8d9f160aa4bsi16746216d6.15 - gsmtp",
+      "mx-host": "gmail-smtp-in.l.google.com",
+      "mx-host-ip": "142.251.163.26",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 0.893,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.197,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "Heejae.choi01@gmail.com"
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "id": "odKJrNt0Sc2V0hTEjSnWeg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"1f90d949-1dd5-4396-bc2f-0ab0f5d656b0\",\"category\":[],\"clearance\":[],\"email\":\"Heejae.choi01@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Armed Forces Pacific\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Armed Forces Pacific (sent weekly)\",\"workplace\":[]}",
+    "recipient": "Heejae.choi01@gmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T00:06:12.364Z",
+    "sort-values": [
+      1781568372364,
+      "odKJrNt0Sc2V0hTEjSnWeg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0"
+    },
+    "geolocation": {
+      "city": "Atlanta",
+      "country": "US",
+      "region": "GA",
+      "timezone": "America/New_York"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260615200604.8b157a0343ea99c0@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "hotmail.com",
+    "recipient-provider": "Outlook US",
+    "delivered-at": "Mon, 15 Jun 2026 20:06:05 +0000",
+    "id": "sQ3-jHyFR1yvKW_7qwVxTA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"2a3624cf-ce47-4903-ad81-ca2daf8e10eb\",\"category\":\"[]\",\"clearance\":\"[]\",\"email\":\"Nicoleb22@hotmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"South Carolina\\\"]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Location: South Carolina (sent weekly)\",\"workplace\":\"[]\"}",
+    "recipient": "Nicoleb22@hotmail.com",
+    "ip": "172.225.246.56",
+    "event": "opened",
+    "@timestamp": "2026-06-16T01:04:34.677Z",
+    "sort-values": [
+      1781571874677,
+      "sQ3-jHyFR1yvKW_7qwVxTA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Ashburn",
+      "country": "US",
+      "region": "VA",
+      "timezone": "America/New_York"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260615222441.abf42d8ef8ce2376@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Mon, 15 Jun 2026 22:24:41 +0000",
+    "id": "6bqmO49WSOO-iaSkplblBw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b631d245-5b87-4561-b34b-a8dd44ef9b41\",\"category\":\"[\\\"Communications\\\",\\\"Information Technology\\\"]\",\"clearance\":\"[\\\"Top Secret/SCI\\\"]\",\"email\":\"elissa.fritcher@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"Virginia\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: Virginia | Category: Communications, Information Technology | Type: Full Time | Clearance: Top Secret/SCI (sent weekly)\",\"workplace\":\"[]\"}",
+    "recipient": "elissa.fritcher@gmail.com",
+    "ip": "172.226.87.107",
+    "event": "opened",
+    "@timestamp": "2026-06-16T01:41:43.365Z",
+    "sort-values": [
+      1781574103365,
+      "6bqmO49WSOO-iaSkplblBw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "havenkstone@gmail.com",
+        "message-id": "20260616015935.9f05bd463c643a1b@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 729
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAclGTniSmU7awNAwrMqCNaPnfk3aQ",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAclGTniSmU7awNAwrMqCNaPnfk3aQ"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "havenkstone@gmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "54.242.10.36",
+    "recipient-domain": "gmail.com",
+    "id": "Z93lURriTH-ZXbjtOfjv0g",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"22b5583d-a466-43b4-99ef-4d67c2720be6\",\"category\":[],\"clearance\":[],\"email\":\"havenkstone@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Armed Forces Pacific\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Armed Forces Pacific (sent weekly)\",\"workplace\":[]}",
+    "recipient": "havenkstone@gmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T01:59:35.145Z",
+    "sort-values": [
+      1781575175145,
+      "Z93lURriTH-ZXbjtOfjv0g"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "havenkstone@gmail.com",
+        "message-id": "20260616015935.9f05bd463c643a1b@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 729
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAclGTniSmU7awNAwrMqCNaPnfk3aQ",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAclGTniSmU7awNAwrMqCNaPnfk3aQ"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 OK  1781575197 ffacd0b85a97d-4606f31b886si20317435f8f.346 - gsmtp",
+      "mx-host": "alt2.gmail-smtp-in.l.google.com",
+      "mx-host-ip": "172.253.116.26",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 21.914,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.364,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "143.55.232.45",
+      "targets": "havenkstone@gmail.com"
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "id": "GDP8VqieSd-cmjWfgDtLeQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"22b5583d-a466-43b4-99ef-4d67c2720be6\",\"category\":[],\"clearance\":[],\"email\":\"havenkstone@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Armed Forces Pacific\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Armed Forces Pacific (sent weekly)\",\"workplace\":[]}",
+    "recipient": "havenkstone@gmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T01:59:57.063Z",
+    "sort-values": [
+      1781575197063,
+      "GDP8VqieSd-cmjWfgDtLeQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260610113116.10501ea0e6b7d288@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "i-delivery-optimizer": "combined_heatmap",
+    "delivered-at": "Thu, 11 Jun 2026 09:03:35 +0000",
+    "id": "YnVkkNIdSTCjexrVxr8Q-w",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"1f498e39-d5c1-4940-8c4e-16a02f59e613\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\",\\\"Agency Clearance\\\",\\\"Secret\\\"]\",\"job_count\":\"5\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/senior-director-technology-program-manager-washington-d-c-167524-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=44\\\",\\\"location\\\":\\\"D.C.\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Senior Director - Technology Program Manager\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/hsl-sector-cto-austin-texas-167401-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=44\\\",\\\"location\\\":\\\"Texas\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"HSL Sector CTO\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/business-unit-vp-dha-va-austin-texas-167404-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=3\\u0026count=44\\\",\\\"location\\\":\\\"Texas\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Business Unit VP - DHA/VA\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Secret\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/senior-electrical-engineer-naval-research-lab-program-washington-d-c-167410-jobs--engineering--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=4\\u0026count=44\\\",\\\"location\\\":\\\"D.C.\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Senior Electrical Engineer (Spacecraft Electrical)\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/senior-computer-systems-engineer-microsoft-365-washington-d-c-167371-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=5\\u0026count=44\\\",\\\"location\\\":\\\"D.C.\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Senior Computer Systems Engineer - Microsoft 365\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"Armed Forces Europe\\\",\\\"Armed Forces Pacific\\\",\\\"D.C.\\\",\\\"Florida\\\",\\\"Texas\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"workplace\":\"[]\"}",
+    "recipient": "lizzgrice@gmail.com",
+    "ip": "74.125.209.130",
+    "event": "opened",
+    "@timestamp": "2026-06-16T02:00:19.257Z",
+    "sort-values": [
+      1781575219257,
+      "YnVkkNIdSTCjexrVxr8Q-w"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "ytcnotarypublicllc@gmail.com",
+        "message-id": "20260616020809.d893854a3e293568@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 716
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQdQREnxxoTTy0ZCi4WPmGxv4YaaZA",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQdQREnxxoTTy0ZCi4WPmGxv4YaaZA"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "ytcnotarypublicllc@gmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "34.227.100.114",
+    "recipient-domain": "gmail.com",
+    "id": "Manuf7JsQdyWHCRJfxs_UQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"c6075982-3909-428d-b6c8-26ac50eabc20\",\"category\":[],\"clearance\":[],\"email\":\"ytcnotarypublicllc@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[],\"position_type\":[],\"search_summary\":\"Filters: Workplace: Remote (sent weekly)\",\"workplace\":[\"Remote\"]}",
+    "recipient": "ytcnotarypublicllc@gmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T02:08:09.355Z",
+    "sort-values": [
+      1781575689355,
+      "Manuf7JsQdyWHCRJfxs_UQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "ytcnotarypublicllc@gmail.com",
+        "message-id": "20260616020809.d893854a3e293568@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 716
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQdQREnxxoTTy0ZCi4WPmGxv4YaaZA",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQdQREnxxoTTy0ZCi4WPmGxv4YaaZA"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 OK  1781575689 6a1803df08f44-8d9f160a5c5si23629526d6.107 - gsmtp",
+      "mx-host": "gmail-smtp-in.l.google.com",
+      "mx-host-ip": "172.253.139.27",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 0.642,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.191,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "143.55.232.45",
+      "targets": "ytcnotarypublicllc@gmail.com"
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "id": "QP4TyXNdT_alupVk6KOXlA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"c6075982-3909-428d-b6c8-26ac50eabc20\",\"category\":[],\"clearance\":[],\"email\":\"ytcnotarypublicllc@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[],\"position_type\":[],\"search_summary\":\"Filters: Workplace: Remote (sent weekly)\",\"workplace\":[\"Remote\"]}",
+    "recipient": "ytcnotarypublicllc@gmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T02:08:10.000Z",
+    "sort-values": [
+      1781575690000,
+      "QP4TyXNdT_alupVk6KOXlA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260615132703.62916aa72088bb96@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Mon, 15 Jun 2026 13:27:03 +0000",
+    "id": "IcBcZlJFTeu2UdO4Xxkt5g",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"2376c2a1-a377-4338-975b-2525750b56f3\",\"category\":\"[]\",\"clearance\":\"[]\",\"email\":\"Sgonzalezpmp@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Type: Full Time | Workplace: Remote (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "Sgonzalezpmp@gmail.com",
+    "ip": "146.75.232.1",
+    "event": "opened",
+    "@timestamp": "2026-06-16T02:23:15.979Z",
+    "sort-values": [
+      1781576595979,
+      "IcBcZlJFTeu2UdO4Xxkt5g"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616020809.d893854a3e293568@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 02:08:09 +0000",
+    "id": "hfhSYzZOTY-uNnPVECU1qg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"c6075982-3909-428d-b6c8-26ac50eabc20\",\"category\":\"[]\",\"clearance\":\"[]\",\"email\":\"ytcnotarypublicllc@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Workplace: Remote (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "ytcnotarypublicllc@gmail.com",
+    "ip": "66.102.7.204",
+    "event": "opened",
+    "@timestamp": "2026-06-16T02:42:16.820Z",
+    "sort-values": [
+      1781577736820,
+      "hfhSYzZOTY-uNnPVECU1qg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "shaopengsun@yahoo.com",
+        "message-id": "20260616025919.125267542ede9636@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 812
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAft3ayDPtv1KshEM4AA2foHkphYYg",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAft3ayDPtv1KshEM4AA2foHkphYYg"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "shaopengsun@yahoo.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "98.84.38.39",
+    "recipient-domain": "yahoo.com",
+    "id": "yzXwxAibR4iqy051VCGBuQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"e3be1274-2600-492c-8d0b-fe64bc397a10\",\"category\":[],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Agency Clearance\"],\"email\":\"shaopengsun@yahoo.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[],\"position_type\":[],\"search_summary\":\"Filters: Workplace: Remote | Clearance: No Clearance, Public Trust, Agency Clearance (sent weekly)\",\"workplace\":[\"Remote\"]}",
+    "recipient": "shaopengsun@yahoo.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T02:59:19.613Z",
+    "sort-values": [
+      1781578759613,
+      "yzXwxAibR4iqy051VCGBuQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "shaopengsun@yahoo.com",
+        "message-id": "20260616025919.125267542ede9636@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 812
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAft3ayDPtv1KshEM4AA2foHkphYYg",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAft3ayDPtv1KshEM4AA2foHkphYYg"
+      ]
+    },
+    "delivery-status": {
+      "message": "ok dirdel",
+      "mx-host": "mta6.am0.yahoodns.net",
+      "mx-host-ip": "98.136.96.74",
+      "session-seconds": 3.258,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.327,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "shaopengsun@yahoo.com"
+    },
+    "recipient-domain": "yahoo.com",
+    "recipient-provider": "Yahoo US",
+    "id": "tnYEb73ESza-ft9JzBg3-Q",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"e3be1274-2600-492c-8d0b-fe64bc397a10\",\"category\":[],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Agency Clearance\"],\"email\":\"shaopengsun@yahoo.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[],\"position_type\":[],\"search_summary\":\"Filters: Workplace: Remote | Clearance: No Clearance, Public Trust, Agency Clearance (sent weekly)\",\"workplace\":[\"Remote\"]}",
+    "recipient": "shaopengsun@yahoo.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T02:59:22.876Z",
+    "sort-values": [
+      1781578762876,
+      "tnYEb73ESza-ft9JzBg3-Q"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260615041622.753a72eaf32db32a@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Mon, 15 Jun 2026 04:16:22 +0000",
+    "id": "n4xtEi-BQx2_8UKN59w6ZQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"a737442e-f0f3-4ff4-8cac-d671440f07ca\",\"category\":\"[\\\"Information Technology\\\",\\\"Project Management\\\"]\",\"clearance\":\"[\\\"Public Trust\\\"]\",\"email\":\"aartinashte@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"D.C.\\\",\\\"Maryland\\\",\\\"Virginia\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: D.C., Maryland, Virginia | Category: Information Technology, Project Management | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Public Trust (sent weekly)\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\",\\\"On-Site\\\"]\"}",
+    "recipient": "aartinashte@gmail.com",
+    "ip": "192.178.11.103",
+    "event": "opened",
+    "@timestamp": "2026-06-16T03:01:08.244Z",
+    "sort-values": [
+      1781578868244,
+      "n4xtEi-BQx2_8UKN59w6ZQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "janicemullings@gmail.com",
+        "message-id": "20260616033152.06179beffff54c23@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1227
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAc1KfvOQ-_4EtdGCIiokB0JqwNUYg",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAc1KfvOQ-_4EtdGCIiokB0JqwNUYg"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "janicemullings@gmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "3.209.56.147",
+    "recipient-domain": "gmail.com",
+    "id": "wRngY7O0Txmo6M_PKGRAgA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"6f59d92f-bfa1-4e3e-b992-729e898e4f13\",\"category\":[\"Administrative\",\"Administrative & Facilities Services\",\"Executive\",\"Information Technology\",\"Knowledge Mgmt\",\"Publications & Graphics Art\"],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Agency Clearance\"],\"email\":\"janicemullings@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"California\",\"Texas\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: California, Texas | Category: Administrative, Administrative & Facilities Services, Executive, Information Technology, Knowledge Mgmt, Publications & Graphics Art | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: No Clearance, Public Trust, Agency Clearance (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "janicemullings@gmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T03:31:52.279Z",
+    "sort-values": [
+      1781580712279,
+      "wRngY7O0Txmo6M_PKGRAgA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "janicemullings@gmail.com",
+        "message-id": "20260616033152.06179beffff54c23@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1227
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAc1KfvOQ-_4EtdGCIiokB0JqwNUYg",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAc1KfvOQ-_4EtdGCIiokB0JqwNUYg"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 OK  1781580712 af79cd13be357-9161a0d7e25si1374535485a.433 - gsmtp",
+      "mx-host": "gmail-smtp-in.l.google.com",
+      "mx-host-ip": "192.178.218.26",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 0.708,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.287,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "143.55.232.45",
+      "targets": "janicemullings@gmail.com"
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "id": "VpVBoMG4QmybWTYY_gMqzA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"6f59d92f-bfa1-4e3e-b992-729e898e4f13\",\"category\":[\"Administrative\",\"Administrative & Facilities Services\",\"Executive\",\"Information Technology\",\"Knowledge Mgmt\",\"Publications & Graphics Art\"],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Agency Clearance\"],\"email\":\"janicemullings@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"California\",\"Texas\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: California, Texas | Category: Administrative, Administrative & Facilities Services, Executive, Information Technology, Knowledge Mgmt, Publications & Graphics Art | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: No Clearance, Public Trust, Agency Clearance (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "janicemullings@gmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T03:31:52.992Z",
+    "sort-values": [
+      1781580712992,
+      "VpVBoMG4QmybWTYY_gMqzA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616033152.06179beffff54c23@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 03:31:52 +0000",
+    "id": "RQVOGvQISe63sZawajkJZQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"6f59d92f-bfa1-4e3e-b992-729e898e4f13\",\"category\":\"[\\\"Administrative\\\",\\\"Administrative \\u0026 Facilities Services\\\",\\\"Executive\\\",\\\"Information Technology\\\",\\\"Knowledge Mgmt\\\",\\\"Publications \\u0026 Graphics Art\\\"]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\",\\\"Agency Clearance\\\"]\",\"email\":\"janicemullings@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"California\\\",\\\"Texas\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: California, Texas | Category: Administrative, Administrative \\u0026 Facilities Services, Executive, Information Technology, Knowledge Mgmt, Publications \\u0026 Graphics Art | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: No Clearance, Public Trust, Agency Clearance (sent weekly)\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\",\\\"On-Site\\\"]\"}",
+    "recipient": "janicemullings@gmail.com",
+    "ip": "192.178.11.98",
+    "event": "opened",
+    "@timestamp": "2026-06-16T03:32:03.944Z",
+    "sort-values": [
+      1781580723944,
+      "RQVOGvQISe63sZawajkJZQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260612140634.89c1a22e86bf5c0b@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Fri, 12 Jun 2026 14:06:34 +0000",
+    "id": "ea3NlNc7SJy5gdivAy_h8g",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"d42f9517-bd87-429c-9cdc-00ee8908854f\",\"category\":\"[]\",\"clearance\":\"[]\",\"email\":\"chineloumeadi@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Workplace: Remote (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "chineloumeadi@gmail.com",
+    "ip": "192.178.11.103",
+    "event": "opened",
+    "@timestamp": "2026-06-16T03:53:02.025Z",
+    "sort-values": [
+      1781581982025,
+      "ea3NlNc7SJy5gdivAy_h8g"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260612140727.d69fd835b6247f54@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Fri, 12 Jun 2026 14:07:33 +0000",
+    "id": "SK_ffNz1SRqcWtGHfiSZYg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"f808ec6d-0e9e-43e2-8f15-610fb674fdf5\",\"category\":\"[\\\"Audit\\\",\\\"Contracts\\\",\\\"Cyber Security\\\",\\\"Information Technology\\\"]\",\"clearance\":\"[]\",\"email\":\"chineloumeadi@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Category: Audit, Contracts, Cyber Security, Information Technology | Workplace: Remote (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "chineloumeadi@gmail.com",
+    "ip": "192.178.11.99",
+    "event": "opened",
+    "@timestamp": "2026-06-16T03:53:02.102Z",
+    "sort-values": [
+      1781581982102,
+      "SK_ffNz1SRqcWtGHfiSZYg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260610113102.e3dd5e33c0dbe0b0@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "i-delivery-optimizer": "combined_heatmap",
+    "delivered-at": "Wed, 10 Jun 2026 12:07:44 +0000",
+    "id": "cZ-1hnEoRFKka5GQhBQJHQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b5cece5c-4cdf-4a44-be29-f1f21cdb09a2\",\"category\":\"[\\\"Intel and Threat Analysis\\\"]\",\"clearance\":\"[\\\"Top Secret/SCI\\\",\\\"Top Secret/SCI with Poly\\\"]\",\"job_count\":\"1\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/mobile-training-team-mtt-instructor-analytic-facilitator-senior-moody-afb-georgia-167048-jobs--intel-and-threat-analysis--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=1\\\",\\\"location\\\":\\\"Georgia\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Mobile Training Team (MTT) Instructor / Analytic Facilitator (Senior)\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"Alabama\\\",\\\"Georgia\\\"]\",\"position_type\":\"[]\",\"workplace\":\"[]\"}",
+    "recipient": "osizemore16@gmail.com",
+    "ip": "146.75.232.1",
+    "event": "opened",
+    "@timestamp": "2026-06-16T04:47:56.224Z",
+    "sort-values": [
+      1781585276224,
+      "cZ-1hnEoRFKka5GQhBQJHQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260612175031.1c64867d4888083d@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Fri, 12 Jun 2026 17:50:31 +0000",
+    "id": "u2u_FjK-Tz2mMLSOhkkMcg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"5634fb8b-5644-40ba-9881-3185b3d00762\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\"]\",\"email\":\"Jeradiah3@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Type: Full Time | Workplace: Remote | Clearance: No Clearance, Public Trust (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "Jeradiah3@gmail.com",
+    "ip": "74.125.209.135",
+    "event": "opened",
+    "@timestamp": "2026-06-16T05:25:26.387Z",
+    "sort-values": [
+      1781587526387,
+      "u2u_FjK-Tz2mMLSOhkkMcg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260603113104.8b157cad5b34053b@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "i-delivery-optimizer": "combined_heatmap",
+    "delivered-at": "Wed, 03 Jun 2026 12:07:44 +0000",
+    "id": "KtH7jDaISiC0zY348S9vPA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b5cece5c-4cdf-4a44-be29-f1f21cdb09a2\",\"category\":\"[\\\"Intel and Threat Analysis\\\"]\",\"clearance\":\"[\\\"Top Secret/SCI\\\",\\\"Top Secret/SCI with Poly\\\"]\",\"job_count\":\"1\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/mobile-training-team-mtt-instructor-analytic-facilitator-senior-moody-afb-georgia-167048-jobs--intel-and-threat-analysis--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=1\\\",\\\"location\\\":\\\"Georgia\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Mobile Training Team (MTT) Instructor / Analytic Facilitator (Senior)\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"Alabama\\\",\\\"Georgia\\\"]\",\"position_type\":\"[]\",\"workplace\":\"[]\"}",
+    "recipient": "osizemore16@gmail.com",
+    "ip": "146.75.248.0",
+    "event": "opened",
+    "@timestamp": "2026-06-16T07:31:18.942Z",
+    "sort-values": [
+      1781595078942,
+      "KtH7jDaISiC0zY348S9vPA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "michael.schmit.4@us.af.mil",
+        "message-id": "20260616113840.5e46008e61e264b2@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 966
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAfcc9hUsDhIC9ZLW43PhYrXBZPKZw",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAfcc9hUsDhIC9ZLW43PhYrXBZPKZw"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "michael.schmit.4@us.af.mil"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "54.159.14.233",
+    "recipient-domain": "us.af.mil",
+    "id": "egFDvfvXTP2XIXPLyJxLXg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"078bf3da-71b9-4120-9876-d1b4d017263f\",\"category\":[\"Intel and Threat Analysis\",\"Project Management\"],\"clearance\":[\"Top Secret/SCI\"],\"email\":\"michael.schmit.4@us.af.mil\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Nebraska\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: Nebraska | Category: Intel and Threat Analysis, Project Management | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Top Secret/SCI (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "michael.schmit.4@us.af.mil",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T11:38:40.397Z",
+    "sort-values": [
+      1781609920397,
+      "egFDvfvXTP2XIXPLyJxLXg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "michael.schmit.4@us.af.mil",
+        "message-id": "20260616113840.5e46008e61e264b2@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 966
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAfcc9hUsDhIC9ZLW43PhYrXBZPKZw",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAfcc9hUsDhIC9ZLW43PhYrXBZPKZw"
+      ]
+    },
+    "delivery-status": {
+      "message": "ok:  Message 181313117 accepted",
+      "mx-host": "pri-usaf-eemsg.eemsg.mail.mil",
+      "mx-host-ip": "156.112.250.199",
+      "session-seconds": 2.552,
+      "code": 250,
+      "first-delivery-attempt-seconds": 2.109,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "143.55.232.45",
+      "targets": "michael.schmit.4@us.af.mil"
+    },
+    "recipient-domain": "us.af.mil",
+    "recipient-provider": "Other",
+    "id": "O4IcRybrQ4Oety6zUlcduA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"078bf3da-71b9-4120-9876-d1b4d017263f\",\"category\":[\"Intel and Threat Analysis\",\"Project Management\"],\"clearance\":[\"Top Secret/SCI\"],\"email\":\"michael.schmit.4@us.af.mil\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Nebraska\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: Nebraska | Category: Intel and Threat Analysis, Project Management | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Top Secret/SCI (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "michael.schmit.4@us.af.mil",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T11:38:44.732Z",
+    "sort-values": [
+      1781609924732,
+      "O4IcRybrQ4Oety6zUlcduA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "Chrome",
+      "client-os": "Windows",
+      "client-type": "browser",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "GB",
+      "region": "Unknown",
+      "timezone": "Europe/London"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616113840.5e46008e61e264b2@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "us.af.mil",
+    "recipient-provider": "Other",
+    "delivered-at": "Tue, 16 Jun 2026 11:38:42 +0000",
+    "id": "yTrVeEaFTeGM7E27tY_49Q",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"078bf3da-71b9-4120-9876-d1b4d017263f\",\"category\":\"[\\\"Intel and Threat Analysis\\\",\\\"Project Management\\\"]\",\"clearance\":\"[\\\"Top Secret/SCI\\\"]\",\"email\":\"michael.schmit.4@us.af.mil\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"Nebraska\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: Nebraska | Category: Intel and Threat Analysis, Project Management | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Top Secret/SCI (sent weekly)\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\",\\\"On-Site\\\"]\"}",
+    "recipient": "michael.schmit.4@us.af.mil",
+    "ip": "51.54.38.128",
+    "event": "opened",
+    "@timestamp": "2026-06-16T11:38:53.995Z",
+    "sort-values": [
+      1781609933995,
+      "yTrVeEaFTeGM7E27tY_49Q"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "YahooMailProxy",
+      "client-os": "unknown",
+      "client-type": "robot",
+      "device-type": "unknown",
+      "user-agent": "YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "Unknown",
+      "region": "Unknown",
+      "timezone": "Unknown"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616025919.125267542ede9636@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "yahoo.com",
+    "recipient-provider": "Yahoo US",
+    "delivered-at": "Tue, 16 Jun 2026 02:59:19 +0000",
+    "id": "HXBvh0T6TJi7qzVUpXdKQQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"e3be1274-2600-492c-8d0b-fe64bc397a10\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\",\\\"Agency Clearance\\\"]\",\"email\":\"shaopengsun@yahoo.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Workplace: Remote | Clearance: No Clearance, Public Trust, Agency Clearance (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "shaopengsun@yahoo.com",
+    "ip": "104.22.101.58",
+    "event": "opened",
+    "@timestamp": "2026-06-16T13:02:51.134Z",
+    "sort-values": [
+      1781614971134,
+      "HXBvh0T6TJi7qzVUpXdKQQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260527113101.c37ade7fb5568315@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "i-delivery-optimizer": "combined_heatmap",
+    "delivered-at": "Wed, 27 May 2026 12:07:44 +0000",
+    "id": "kWfVPGxZRtWCFA-DYeVgwA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b5cece5c-4cdf-4a44-be29-f1f21cdb09a2\",\"category\":\"[\\\"Intel and Threat Analysis\\\"]\",\"clearance\":\"[\\\"Top Secret/SCI\\\",\\\"Top Secret/SCI with Poly\\\"]\",\"job_count\":\"1\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI with Poly\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/battlespace-awareness-operator-huntsville-alabama-165743-jobs--intel-and-threat-analysis--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=1\\\",\\\"location\\\":\\\"Alabama\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Battlespace Awareness Operator\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"Alabama\\\",\\\"Georgia\\\"]\",\"position_type\":\"[]\",\"workplace\":\"[]\"}",
+    "recipient": "osizemore16@gmail.com",
+    "ip": "146.75.248.0",
+    "event": "opened",
+    "@timestamp": "2026-06-16T13:12:50.235Z",
+    "sort-values": [
+      1781615570235,
+      "kWfVPGxZRtWCFA-DYeVgwA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Raleigh",
+      "country": "US",
+      "region": "NC",
+      "timezone": "America/New_York"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260610113111.8fd4bf6af17fda3b@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "comcast.net",
+    "recipient-provider": "Comcast",
+    "i-delivery-optimizer": "open_heatmap",
+    "delivered-at": "Wed, 10 Jun 2026 15:41:48 +0000",
+    "id": "dBbLPSdPQXOaoyKMXRjBCA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"fd0837ba-3d44-4686-8f69-758b9c15df13\",\"category\":\"[\\\"Customer Service\\\",\\\"Cyber Security\\\",\\\"Information Technology\\\"]\",\"clearance\":\"[\\\"Top Secret/SCI with Poly\\\"]\",\"job_count\":\"5\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI with Poly\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/cloud-systems-administrator-senior-linux-aws-application-sustainment-herndon-virginia-167543-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=100\\\",\\\"location\\\":\\\"Virginia\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Cloud Systems Administrator \u2013 Senior Linux / AWS Application Sustainment\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI with Poly\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/cyber-software-engineer-ts-sci-w-poly-annapolis-junction-maryland-167510-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=100\\\",\\\"location\\\":\\\"Maryland\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Cyber Software Engineer, TS/SCI w/ Poly\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI with Poly\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/information-systems-security-engineer-level-1-ai-ml-project-ts-sci-w-poly-laurel-maryland-167506-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=3\\u0026count=100\\\",\\\"location\\\":\\\"Maryland\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Information Systems Security Engineer Level 1 \u2013 AI/ML Project TS/SCI w Poly\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI with Poly\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/information-systems-security-officer-level-2-ai-ml-project-ts-sci-w-poly-laurel-maryland-167505-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=4\\u0026count=100\\\",\\\"location\\\":\\\"Maryland\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Information Systems Security Officer Level 2 \u2013 AI/ML Project TS/SCI w Poly\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI with Poly\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/cyber-systems-administrator-ai-ml-support-ts-sci-w-poly-laurel-maryland-167500-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=5\\u0026count=100\\\",\\\"location\\\":\\\"Maryland\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Cyber Systems Administrator, AI/ML Support TS/SCI w Poly\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"D.C.\\\",\\\"Maryland\\\",\\\"North Carolina\\\",\\\"South Carolina\\\",\\\"Virginia\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"workplace\":\"[\\\"Remote\\\",\\\"On-Site\\\"]\"}",
+    "recipient": "ronnielove1@comcast.net",
+    "ip": "104.28.79.151",
+    "event": "opened",
+    "@timestamp": "2026-06-16T13:38:28.051Z",
+    "sort-values": [
+      1781617108051,
+      "dBbLPSdPQXOaoyKMXRjBCA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "seunabayomi@yahoo.com",
+        "message-id": "20260616142538.82e40553767539b2@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1022
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAdelnLZemvG6T9IoYZHNbKlmHGuZA",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAdelnLZemvG6T9IoYZHNbKlmHGuZA"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "seunabayomi@yahoo.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "54.166.233.247",
+    "recipient-domain": "yahoo.com",
+    "id": "ZYOaEB0bRrSvZdKpc6J4TQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"5572e729-6203-46b2-b580-565cb378b9bf\",\"category\":[\"Project Management\"],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Agency Clearance\",\"Secret\",\"Top Secret\"],\"email\":\"seunabayomi@yahoo.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Maryland\",\"Virginia\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: D.C., Maryland, Virginia | Category: Project Management | Type: Full Time | Workplace: Remote, Hybrid | Clearance: No Clearance, Public Trust, Agency Clearance, Secret, Top Secret (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\"]}",
+    "recipient": "seunabayomi@yahoo.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T14:25:38.132Z",
+    "sort-values": [
+      1781619938132,
+      "ZYOaEB0bRrSvZdKpc6J4TQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "seunabayomi@yahoo.com",
+        "message-id": "20260616142538.82e40553767539b2@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1022
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAdelnLZemvG6T9IoYZHNbKlmHGuZA",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAdelnLZemvG6T9IoYZHNbKlmHGuZA"
+      ]
+    },
+    "delivery-status": {
+      "message": "ok dirdel",
+      "mx-host": "mta6.am0.yahoodns.net",
+      "mx-host-ip": "67.195.204.73",
+      "session-seconds": 1.534,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.375,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "seunabayomi@yahoo.com"
+    },
+    "recipient-domain": "yahoo.com",
+    "recipient-provider": "Yahoo US",
+    "id": "vJgFeumzQtup_MzvWdkAEg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"5572e729-6203-46b2-b580-565cb378b9bf\",\"category\":[\"Project Management\"],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Agency Clearance\",\"Secret\",\"Top Secret\"],\"email\":\"seunabayomi@yahoo.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Maryland\",\"Virginia\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: D.C., Maryland, Virginia | Category: Project Management | Type: Full Time | Workplace: Remote, Hybrid | Clearance: No Clearance, Public Trust, Agency Clearance, Secret, Top Secret (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\"]}",
+    "recipient": "seunabayomi@yahoo.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T14:25:39.671Z",
+    "sort-values": [
+      1781619939671,
+      "vJgFeumzQtup_MzvWdkAEg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260511201608.6150b5f92d74f5e2@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Mon, 11 May 2026 20:16:08 +0000",
+    "id": "joombU4ATB2KUH4K9O9D2g",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"117916b3-ef28-4697-a962-89fa593f53f4\",\"category\":\"[\\\"Communications\\\",\\\"Contracts\\\",\\\"Knowledge Mgmt\\\",\\\"Publications \\u0026 Graphics Art\\\",\\\"Supply Chain\\\"]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\",\\\"Secret\\\"]\",\"email\":\"emeraldshadow2015@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Category: Communications, Contracts, Knowledge Mgmt, Publications \\u0026 Graphics Art, Supply Chain | Type: Full Time | Workplace: Remote | Clearance: No Clearance, Public Trust, Secret (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "emeraldshadow2015@gmail.com",
+    "ip": "74.125.213.5",
+    "event": "opened",
+    "@timestamp": "2026-06-16T15:01:03.317Z",
+    "sort-values": [
+      1781622063317,
+      "joombU4ATB2KUH4K9O9D2g"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260610201821.9e944b988d294990@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "petrastrategy.com",
+    "recipient-provider": "Outlook 365",
+    "delivered-at": "Wed, 10 Jun 2026 20:18:21 +0000",
+    "id": "DAgpETP4QKicaIJAPr1OhA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"d904836c-dc15-44d0-9744-2733c1c3f277\",\"category\":\"[\\\"Growth\\\"]\",\"clearance\":\"[]\",\"email\":\"kirsten@petrastrategy.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Category: Growth (sent weekly)\",\"workplace\":\"[]\"}",
+    "recipient": "kirsten@petrastrategy.com",
+    "ip": "140.248.4.1",
+    "event": "opened",
+    "@timestamp": "2026-06-16T15:31:09.985Z",
+    "sort-values": [
+      1781623869985,
+      "DAgpETP4QKicaIJAPr1OhA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "IE",
+      "client-os": "Windows",
+      "client-type": "browser",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)"
+    },
+    "geolocation": {
+      "city": "Chicago",
+      "country": "US",
+      "region": "IL",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260603113121.11d8c44d07dde786@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "outlook.com",
+    "recipient-provider": "Outlook US",
+    "i-delivery-optimizer": "combined_heatmap",
+    "delivered-at": "Thu, 04 Jun 2026 03:51:49 +0000",
+    "id": "qj3Ssxk6SdyTwx4zP4yTHg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"9a2ffa25-0547-4cd1-baf9-8c640587a3f2\",\"category\":\"[\\\"Cyber Security\\\"]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\",\\\"Secret\\\",\\\"Top Secret\\\"]\",\"job_count\":\"5\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/site-security-officer-manager-undefined-undefined-167268-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=5\\\",\\\"location\\\":\\\"USA / ARMED FORCES\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Site Security Officer, Manager\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/siem-solutions-engineer-undefined-undefined-167180-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=5\\\",\\\"location\\\":\\\"USA / ARMED FORCES\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"SIEM Solutions Engineer\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Secret\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/information-assurance-and-security-advisor-undefined-undefined-167002-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=3\\u0026count=5\\\",\\\"location\\\":\\\"USA / ARMED FORCES\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Information Assurance and Security, Advisor\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/cybersecurity-splunk-engineer-undefined-undefined-163179-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=4\\u0026count=5\\\",\\\"location\\\":\\\"USA / ARMED FORCES\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Cybersecurity Splunk Engineer\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/information-systems-security-engineer-home-d-c-165538-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=5\\u0026count=5\\\",\\\"location\\\":\\\"D.C.\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Information Systems Security Engineer\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"}]\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[]\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "rogerofarril@outlook.com",
+    "ip": "172.183.84.17",
+    "event": "opened",
+    "@timestamp": "2026-06-16T15:57:15.459Z",
+    "sort-values": [
+      1781625435459,
+      "qj3Ssxk6SdyTwx4zP4yTHg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "kmrajnic@gmail.com",
+        "message-id": "20260616161010.0166c19a95f98f86@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1102
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQeDCe6rt92MStdG6IkJ4Ikth-iyaQ",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQeDCe6rt92MStdG6IkJ4Ikth-iyaQ"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "kmrajnic@gmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "52.2.205.89",
+    "recipient-domain": "gmail.com",
+    "id": "2ez570jdSbSDbTLHzJlNhQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"f6725a01-490f-4283-a44f-24c5c2f4ce04\",\"category\":[\"Consulting\",\"Contracts\",\"Operations\",\"Project Management\",\"Quality Assurance\",\"Supply Chain\"],\"clearance\":[\"Secret\"],\"email\":\"kmrajnic@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Delaware\",\"Maryland\",\"Virginia\",\"Washington\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: D.C., Delaware, Maryland, Virginia, Washington | Category: Consulting, Contracts, Operations, Project Management, Quality Assurance, Supply Chain | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Secret (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "kmrajnic@gmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T16:10:10.048Z",
+    "sort-values": [
+      1781626210048,
+      "2ez570jdSbSDbTLHzJlNhQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "kmrajnic@gmail.com",
+        "message-id": "20260616161010.0166c19a95f98f86@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1102
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQeDCe6rt92MStdG6IkJ4Ikth-iyaQ",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQeDCe6rt92MStdG6IkJ4Ikth-iyaQ"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 OK  1781626210 af79cd13be357-91619ef518fsi1481011085a.127 - gsmtp",
+      "mx-host": "gmail-smtp-in.l.google.com",
+      "mx-host-ip": "142.251.163.27",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 0.802,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.199,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "kmrajnic@gmail.com"
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "id": "xMdwMkfcR1K_WECgGhCAcQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"f6725a01-490f-4283-a44f-24c5c2f4ce04\",\"category\":[\"Consulting\",\"Contracts\",\"Operations\",\"Project Management\",\"Quality Assurance\",\"Supply Chain\"],\"clearance\":[\"Secret\"],\"email\":\"kmrajnic@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Delaware\",\"Maryland\",\"Virginia\",\"Washington\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: D.C., Delaware, Maryland, Virginia, Washington | Category: Consulting, Contracts, Operations, Project Management, Quality Assurance, Supply Chain | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Secret (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "kmrajnic@gmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T16:10:10.855Z",
+    "sort-values": [
+      1781626210855,
+      "xMdwMkfcR1K_WECgGhCAcQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "kmrajnic@gmail.com",
+        "message-id": "20260616161040.0068a0997bf26fd4@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1083
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQcxFEvNK28a125LGr2SAJM1aK2-Yw",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQcxFEvNK28a125LGr2SAJM1aK2-Yw"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "kmrajnic@gmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "52.2.205.89",
+    "recipient-domain": "gmail.com",
+    "id": "DhrRgFa1TuCngEcusD2IoA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"4feeafc4-35da-4462-8822-002596a48f27\",\"category\":[\"Consulting\",\"Contracts\",\"Operations\",\"Project Management\",\"Quality Assurance\",\"Supply Chain\"],\"clearance\":[\"Secret\"],\"email\":\"kmrajnic@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Delaware\",\"Maryland\",\"Virginia\",\"Washington\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: D.C., Delaware, Maryland, Virginia, Washington | Category: Consulting, Contracts, Operations, Project Management, Quality Assurance, Supply Chain | Type: Full Time | Workplace: Remote, Hybrid | Clearance: Secret (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\"]}",
+    "recipient": "kmrajnic@gmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T16:10:40.343Z",
+    "sort-values": [
+      1781626240343,
+      "DhrRgFa1TuCngEcusD2IoA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "kmrajnic@gmail.com",
+        "message-id": "20260616161040.0068a0997bf26fd4@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1083
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQcxFEvNK28a125LGr2SAJM1aK2-Yw",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQcxFEvNK28a125LGr2SAJM1aK2-Yw"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 OK  1781626241 d75a77b69052e-51976d14073si61601271cf.203 - gsmtp",
+      "mx-host": "gmail-smtp-in.l.google.com",
+      "mx-host-ip": "142.251.163.27",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 0.818,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.169,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "kmrajnic@gmail.com"
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "id": "-ooGFLebQoK_Vkn3Kgj4Eg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"4feeafc4-35da-4462-8822-002596a48f27\",\"category\":[\"Consulting\",\"Contracts\",\"Operations\",\"Project Management\",\"Quality Assurance\",\"Supply Chain\"],\"clearance\":[\"Secret\"],\"email\":\"kmrajnic@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Delaware\",\"Maryland\",\"Virginia\",\"Washington\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: D.C., Delaware, Maryland, Virginia, Washington | Category: Consulting, Contracts, Operations, Project Management, Quality Assurance, Supply Chain | Type: Full Time | Workplace: Remote, Hybrid | Clearance: Secret (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\"]}",
+    "recipient": "kmrajnic@gmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T16:10:41.162Z",
+    "sort-values": [
+      1781626241162,
+      "-ooGFLebQoK_Vkn3Kgj4Eg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616161040.0068a0997bf26fd4@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 16:10:40 +0000",
+    "id": "2VSrfMYmQ_uhcxrTdxa6Tw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"4feeafc4-35da-4462-8822-002596a48f27\",\"category\":\"[\\\"Consulting\\\",\\\"Contracts\\\",\\\"Operations\\\",\\\"Project Management\\\",\\\"Quality Assurance\\\",\\\"Supply Chain\\\"]\",\"clearance\":\"[\\\"Secret\\\"]\",\"email\":\"kmrajnic@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"D.C.\\\",\\\"Delaware\\\",\\\"Maryland\\\",\\\"Virginia\\\",\\\"Washington\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: D.C., Delaware, Maryland, Virginia, Washington | Category: Consulting, Contracts, Operations, Project Management, Quality Assurance, Supply Chain | Type: Full Time | Workplace: Remote, Hybrid | Clearance: Secret (sent weekly)\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\"]\"}",
+    "recipient": "kmrajnic@gmail.com",
+    "ip": "192.178.11.103",
+    "event": "opened",
+    "@timestamp": "2026-06-16T16:10:49.520Z",
+    "sort-values": [
+      1781626249520,
+      "2VSrfMYmQ_uhcxrTdxa6Tw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616161010.0166c19a95f98f86@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 16:10:10 +0000",
+    "id": "G4bWPxl_RJSOfj6neVfDpw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"f6725a01-490f-4283-a44f-24c5c2f4ce04\",\"category\":\"[\\\"Consulting\\\",\\\"Contracts\\\",\\\"Operations\\\",\\\"Project Management\\\",\\\"Quality Assurance\\\",\\\"Supply Chain\\\"]\",\"clearance\":\"[\\\"Secret\\\"]\",\"email\":\"kmrajnic@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"D.C.\\\",\\\"Delaware\\\",\\\"Maryland\\\",\\\"Virginia\\\",\\\"Washington\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: D.C., Delaware, Maryland, Virginia, Washington | Category: Consulting, Contracts, Operations, Project Management, Quality Assurance, Supply Chain | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Secret (sent weekly)\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\",\\\"On-Site\\\"]\"}",
+    "recipient": "kmrajnic@gmail.com",
+    "ip": "192.178.11.102",
+    "event": "opened",
+    "@timestamp": "2026-06-16T16:10:49.528Z",
+    "sort-values": [
+      1781626249528,
+      "G4bWPxl_RJSOfj6neVfDpw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "jpmcdade@hotmail.com",
+        "message-id": "20260616162024.12bcf4fa52480a7c@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 890
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQfm0VKjARFAEHZMELbvlkCnfrWXYw",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQfm0VKjARFAEHZMELbvlkCnfrWXYw"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "jpmcdade@hotmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "3.239.127.39",
+    "recipient-domain": "hotmail.com",
+    "id": "VNf0jc8qQPGMKnVAxEJLAQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"82d88bfb-e948-43ae-8275-fc07b206fa62\",\"category\":[],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Agency Clearance\",\"Secret\",\"Top Secret\",\"Top Secret/SCI\"],\"email\":\"jpmcdade@hotmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Maryland\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Maryland | Clearance: No Clearance, Public Trust, Agency Clearance, Secret, Top Secret, Top Secret/SCI (sent weekly)\",\"workplace\":[]}",
+    "recipient": "jpmcdade@hotmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T16:20:24.358Z",
+    "sort-values": [
+      1781626824358,
+      "VNf0jc8qQPGMKnVAxEJLAQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "jpmcdade@hotmail.com",
+        "message-id": "20260616162024.12bcf4fa52480a7c@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 890
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQfm0VKjARFAEHZMELbvlkCnfrWXYw",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQfm0VKjARFAEHZMELbvlkCnfrWXYw"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.6.0 <20260616162024.12bcf4fa52480a7c@peratonjobalerts.com> [InternalId=24498493469477, Hostname=PH7PR12MB8038.namprd12.prod.outlook.com] 59626 bytes in 1.800, 32.342 KB/sec Queued mail for delivery -> 250 2.1.5",
+      "mx-host": "hotmail-com.olc.protection.outlook.com",
+      "mx-host-ip": "52.101.11.8",
+      "enhanced-code": "2.6.0",
+      "session-seconds": 2.995,
+      "code": 250,
+      "first-delivery-attempt-seconds": 4.68,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "jpmcdade@hotmail.com"
+    },
+    "recipient-domain": "hotmail.com",
+    "recipient-provider": "Outlook US",
+    "id": "eSOJAoUHQVaJ7Cz3BCFj8Q",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"82d88bfb-e948-43ae-8275-fc07b206fa62\",\"category\":[],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Agency Clearance\",\"Secret\",\"Top Secret\",\"Top Secret/SCI\"],\"email\":\"jpmcdade@hotmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Maryland\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Maryland | Clearance: No Clearance, Public Trust, Agency Clearance, Secret, Top Secret, Top Secret/SCI (sent weekly)\",\"workplace\":[]}",
+    "recipient": "jpmcdade@hotmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T16:20:31.845Z",
+    "sort-values": [
+      1781626831845,
+      "eSOJAoUHQVaJ7Cz3BCFj8Q"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616161040.0068a0997bf26fd4@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 16:10:40 +0000",
+    "id": "JGhSmgJQTsyNYk3MiAzCSg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"4feeafc4-35da-4462-8822-002596a48f27\",\"category\":\"[\\\"Consulting\\\",\\\"Contracts\\\",\\\"Operations\\\",\\\"Project Management\\\",\\\"Quality Assurance\\\",\\\"Supply Chain\\\"]\",\"clearance\":\"[\\\"Secret\\\"]\",\"email\":\"kmrajnic@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"D.C.\\\",\\\"Delaware\\\",\\\"Maryland\\\",\\\"Virginia\\\",\\\"Washington\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: D.C., Delaware, Maryland, Virginia, Washington | Category: Consulting, Contracts, Operations, Project Management, Quality Assurance, Supply Chain | Type: Full Time | Workplace: Remote, Hybrid | Clearance: Secret (sent weekly)\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\"]\"}",
+    "recipient": "kmrajnic@gmail.com",
+    "ip": "146.75.222.0",
+    "event": "opened",
+    "@timestamp": "2026-06-16T16:35:22.681Z",
+    "sort-values": [
+      1781627722681,
+      "JGhSmgJQTsyNYk3MiAzCSg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616161010.0166c19a95f98f86@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 16:10:10 +0000",
+    "id": "fFqdaElzSVO_MtqYb5STEg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"f6725a01-490f-4283-a44f-24c5c2f4ce04\",\"category\":\"[\\\"Consulting\\\",\\\"Contracts\\\",\\\"Operations\\\",\\\"Project Management\\\",\\\"Quality Assurance\\\",\\\"Supply Chain\\\"]\",\"clearance\":\"[\\\"Secret\\\"]\",\"email\":\"kmrajnic@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"D.C.\\\",\\\"Delaware\\\",\\\"Maryland\\\",\\\"Virginia\\\",\\\"Washington\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: D.C., Delaware, Maryland, Virginia, Washington | Category: Consulting, Contracts, Operations, Project Management, Quality Assurance, Supply Chain | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Secret (sent weekly)\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\",\\\"On-Site\\\"]\"}",
+    "recipient": "kmrajnic@gmail.com",
+    "ip": "146.75.222.0",
+    "event": "opened",
+    "@timestamp": "2026-06-16T16:35:22.681Z",
+    "sort-values": [
+      1781627722681,
+      "fFqdaElzSVO_MtqYb5STEg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "mark.achanta@gmail.com",
+        "message-id": "20260616164747.a6999be196b523d0@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 869
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQcWarbAxI7N9FFAl7wzV3x3pCPIZA",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQcWarbAxI7N9FFAl7wzV3x3pCPIZA"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "mark.achanta@gmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "44.192.106.251",
+    "recipient-domain": "gmail.com",
+    "id": "TWDde6zQSI-Q6MmWVzM9qA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"628fed46-2329-4aad-a8f3-ed250911fde2\",\"category\":[\"Information Technology\"],\"clearance\":[\"Public Trust\"],\"email\":\"mark.achanta@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Virginia\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: Virginia | Category: Information Technology | Type: Full Time | Workplace: Remote | Clearance: Public Trust (sent weekly)\",\"workplace\":[\"Remote\"]}",
+    "recipient": "mark.achanta@gmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T16:47:47.091Z",
+    "sort-values": [
+      1781628467091,
+      "TWDde6zQSI-Q6MmWVzM9qA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "mark.achanta@gmail.com",
+        "message-id": "20260616164747.a6999be196b523d0@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 869
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQcWarbAxI7N9FFAl7wzV3x3pCPIZA",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQcWarbAxI7N9FFAl7wzV3x3pCPIZA"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 OK  1781628468 6a1803df08f44-8d9f160a7d3si47271016d6.7 - gsmtp",
+      "mx-host": "gmail-smtp-in.l.google.com",
+      "mx-host-ip": "142.251.163.26",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 0.89,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.409,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "mark.achanta@gmail.com"
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "id": "Q99CVJlLT5qvF4PBI8FdIw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"628fed46-2329-4aad-a8f3-ed250911fde2\",\"category\":[\"Information Technology\"],\"clearance\":[\"Public Trust\"],\"email\":\"mark.achanta@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Virginia\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: Virginia | Category: Information Technology | Type: Full Time | Workplace: Remote | Clearance: Public Trust (sent weekly)\",\"workplace\":[\"Remote\"]}",
+    "recipient": "mark.achanta@gmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T16:47:48.203Z",
+    "sort-values": [
+      1781628468203,
+      "Q99CVJlLT5qvF4PBI8FdIw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616164747.a6999be196b523d0@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 16:47:47 +0000",
+    "id": "DvtLEp6tSm-VNUSewnUmww",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"628fed46-2329-4aad-a8f3-ed250911fde2\",\"category\":\"[\\\"Information Technology\\\"]\",\"clearance\":\"[\\\"Public Trust\\\"]\",\"email\":\"mark.achanta@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"Virginia\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: Virginia | Category: Information Technology | Type: Full Time | Workplace: Remote | Clearance: Public Trust (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "mark.achanta@gmail.com",
+    "ip": "146.75.222.0",
+    "event": "opened",
+    "@timestamp": "2026-06-16T17:02:03.120Z",
+    "sort-values": [
+      1781629323120,
+      "DvtLEp6tSm-VNUSewnUmww"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260612175031.1c64867d4888083d@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Fri, 12 Jun 2026 17:50:31 +0000",
+    "id": "-5tAts1wRiGAUFzhkZ3-Zw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"5634fb8b-5644-40ba-9881-3185b3d00762\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\"]\",\"email\":\"Jeradiah3@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Type: Full Time | Workplace: Remote | Clearance: No Clearance, Public Trust (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "Jeradiah3@gmail.com",
+    "ip": "74.125.209.130",
+    "event": "opened",
+    "@timestamp": "2026-06-16T17:07:36.727Z",
+    "sort-values": [
+      1781629656727,
+      "-5tAts1wRiGAUFzhkZ3-Zw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "sooraj_th@hotmail.com",
+        "message-id": "20260616175204.25325e2566a3c42d@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 963
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQeuTrQgnJ0Xm-lJFrOHyBC4TctxZA",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQeuTrQgnJ0Xm-lJFrOHyBC4TctxZA"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "sooraj_th@hotmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "54.221.79.85",
+    "recipient-domain": "hotmail.com",
+    "id": "LYH0vG_pRa-T3r-6gonO-g",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b564b2f1-906b-419e-b0ee-54565fc0102d\",\"category\":[\"Engineering\"],\"clearance\":[\"Secret\",\"Top Secret\",\"Top Secret/SCI\"],\"email\":\"sooraj_th@hotmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Maryland\",\"Virginia\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: D.C., Maryland, Virginia | Category: Engineering | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Secret, Top Secret, Top Secret/SCI (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "sooraj_th@hotmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T17:52:04.674Z",
+    "sort-values": [
+      1781632324674,
+      "LYH0vG_pRa-T3r-6gonO-g"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "sooraj_th@hotmail.com",
+        "message-id": "20260616175204.25325e2566a3c42d@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 963
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQeuTrQgnJ0Xm-lJFrOHyBC4TctxZA",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQeuTrQgnJ0Xm-lJFrOHyBC4TctxZA"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.6.0 <20260616175204.25325e2566a3c42d@peratonjobalerts.com> [InternalId=82347408000630, Hostname=PH0PR12MB8125.namprd12.prod.outlook.com] 67935 bytes in 0.379, 174.734 KB/sec Queued mail for delivery -> 250 2.1.5",
+      "mx-host": "hotmail-com.olc.protection.outlook.com",
+      "mx-host-ip": "52.101.68.4",
+      "enhanced-code": "2.6.0",
+      "session-seconds": 2.349,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.616,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "sooraj_th@hotmail.com"
+    },
+    "recipient-domain": "hotmail.com",
+    "recipient-provider": "Outlook US",
+    "id": "JzHF7FLCSSGdhb1I_Tr6dw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b564b2f1-906b-419e-b0ee-54565fc0102d\",\"category\":[\"Engineering\"],\"clearance\":[\"Secret\",\"Top Secret\",\"Top Secret/SCI\"],\"email\":\"sooraj_th@hotmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Maryland\",\"Virginia\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: D.C., Maryland, Virginia | Category: Engineering | Type: Full Time | Workplace: Remote, Hybrid, On-Site | Clearance: Secret, Top Secret, Top Secret/SCI (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "sooraj_th@hotmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T17:52:07.451Z",
+    "sort-values": [
+      1781632327451,
+      "JzHF7FLCSSGdhb1I_Tr6dw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "IE",
+      "client-os": "Windows",
+      "client-type": "browser",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)"
+    },
+    "geolocation": {
+      "city": "Boydton",
+      "country": "US",
+      "region": "VA",
+      "timezone": "America/New_York"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260610113122.d128b1add38a5b9c@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "outlook.com",
+    "recipient-provider": "Outlook US",
+    "i-delivery-optimizer": "click_heatmap",
+    "delivered-at": "Thu, 11 Jun 2026 01:24:00 +0000",
+    "id": "tU_z5v_DRGm-rvdRyPx9xQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"c5489592-0968-468e-b842-5a40c8e7bc87\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Secret\\\",\\\"Top Secret\\\",\\\"Top Secret/SCI\\\"]\",\"job_count\":\"5\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/sitec-asset-manager-camp-lejeune-nc-camp-lejeune-north-carolina-167349-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=8\\\",\\\"location\\\":\\\"North Carolina\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"SITEC - Asset Manager - Camp Lejeune, NC\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/sitec-data-analyst-jny-fort-bragg-nc-fort-bragg-north-carolina-167032-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=8\\\",\\\"location\\\":\\\"North Carolina\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"SITEC - Data Analyst (JNY) - Fort Bragg, NC\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/sitec-data-analyst-jny-fort-bragg-nc-fort-bragg-north-carolina-167031-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=3\\u0026count=8\\\",\\\"location\\\":\\\"North Carolina\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"SITEC - Data Analyst (JNY) - Fort Bragg, NC\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/sitec-asset-manager-sr-fort-bragg-nc-fort-bragg-north-carolina-166774-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=4\\u0026count=8\\\",\\\"location\\\":\\\"North Carolina\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"SITEC - Asset Manager (SR) - Fort Bragg, NC\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Top Secret/SCI\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/sitec-cybersecurity-analyst-jny-fort-bragg-nc-fort-bragg-north-carolina-166611-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=5\\u0026count=8\\\",\\\"location\\\":\\\"North Carolina\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"SITEC - Cybersecurity Analyst (JNY) - Fort Bragg, NC\\\",\\\"workplace\\\":\\\"No remote/telework allowed\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"North Carolina\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"workplace\":\"[\\\"On-Site\\\"]\"}",
+    "recipient": "zachary.johanns@outlook.com",
+    "ip": "20.96.142.158",
+    "event": "opened",
+    "@timestamp": "2026-06-16T18:08:07.741Z",
+    "sort-values": [
+      1781633287741,
+      "tU_z5v_DRGm-rvdRyPx9xQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "Scottfootball19@aol.com",
+        "message-id": "20260616181537.7d6f79a12603a7c8@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 738
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAftHK7xk_9xKiRAwaLhYSsyhMkwZw",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAftHK7xk_9xKiRAwaLhYSsyhMkwZw"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "Scottfootball19@aol.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "98.87.5.165",
+    "recipient-domain": "aol.com",
+    "id": "42Jeb7z6QlGimxDkdjW5-A",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b9196bce-1f53-45bb-b12f-a33230b31b8b\",\"category\":[],\"clearance\":[],\"email\":\"Scottfootball19@aol.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Georgia\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: Georgia | Type: Full Time (sent weekly)\",\"workplace\":[]}",
+    "recipient": "Scottfootball19@aol.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T18:15:37.413Z",
+    "sort-values": [
+      1781633737413,
+      "42Jeb7z6QlGimxDkdjW5-A"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "Scottfootball19@aol.com",
+        "message-id": "20260616181537.7d6f79a12603a7c8@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 738
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAftHK7xk_9xKiRAwaLhYSsyhMkwZw",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAftHK7xk_9xKiRAwaLhYSsyhMkwZw"
+      ]
+    },
+    "delivery-status": {
+      "message": "ok dirdel",
+      "mx-host": "mx-aol.mail.gm0.yahoodns.net",
+      "mx-host-ip": "98.136.96.93",
+      "session-seconds": 0.923,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.38,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "143.55.232.45",
+      "targets": "Scottfootball19@aol.com"
+    },
+    "recipient-domain": "aol.com",
+    "recipient-provider": "Yahoo US",
+    "id": "hJBJjl5tQayVac14HofDfw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b9196bce-1f53-45bb-b12f-a33230b31b8b\",\"category\":[],\"clearance\":[],\"email\":\"Scottfootball19@aol.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Georgia\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: Georgia | Type: Full Time (sent weekly)\",\"workplace\":[]}",
+    "recipient": "Scottfootball19@aol.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T18:15:38.346Z",
+    "sort-values": [
+      1781633738346,
+      "hJBJjl5tQayVac14HofDfw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "heartcaca@gmail.com",
+        "message-id": "20260616184055.969f4248b3b4ad9f@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 985
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQefc7xyLRxGXNFGH5hTdO-cJa5RZw",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQefc7xyLRxGXNFGH5hTdO-cJa5RZw"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "heartcaca@gmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "44.203.72.237",
+    "recipient-domain": "gmail.com",
+    "id": "H_4T7gODRoaYEq97JFLlvA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b694a9ee-4431-432f-b6ec-6fd4edeb61cc\",\"category\":[\"Administrative\",\"Executive\",\"Project Management\",\"Quality Assurance\"],\"clearance\":[\"No Clearance\",\"Public Trust\"],\"email\":\"heartcaca@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"California\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: California | Category: Administrative, Executive, Project Management, Quality Assurance | Type: Full Time | Workplace: Remote | Clearance: No Clearance, Public Trust (sent weekly)\",\"workplace\":[\"Remote\"]}",
+    "recipient": "heartcaca@gmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T18:40:55.678Z",
+    "sort-values": [
+      1781635255678,
+      "H_4T7gODRoaYEq97JFLlvA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "heartcaca@gmail.com",
+        "message-id": "20260616184055.969f4248b3b4ad9f@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 985
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQefc7xyLRxGXNFGH5hTdO-cJa5RZw",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQefc7xyLRxGXNFGH5hTdO-cJa5RZw"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 OK  1781635256 6a1803df08f44-8d9f58a44c1si44923856d6.344 - gsmtp",
+      "mx-host": "gmail-smtp-in.l.google.com",
+      "mx-host-ip": "142.251.163.27",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 0.853,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.179,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "heartcaca@gmail.com"
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "id": "4ZEs21gEQjya3Rc1VdZQnw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b694a9ee-4431-432f-b6ec-6fd4edeb61cc\",\"category\":[\"Administrative\",\"Executive\",\"Project Management\",\"Quality Assurance\"],\"clearance\":[\"No Clearance\",\"Public Trust\"],\"email\":\"heartcaca@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"California\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: California | Category: Administrative, Executive, Project Management, Quality Assurance | Type: Full Time | Workplace: Remote | Clearance: No Clearance, Public Trust (sent weekly)\",\"workplace\":[\"Remote\"]}",
+    "recipient": "heartcaca@gmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T18:40:56.537Z",
+    "sort-values": [
+      1781635256537,
+      "4ZEs21gEQjya3Rc1VdZQnw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "lyublyana.covell@icloud.com",
+        "message-id": "20260616190817.d505b40144241195@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 932
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQc5o3iJm-pL6lZLhZrBCbEuTA11ag",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQc5o3iJm-pL6lZLhZrBCbEuTA11ag"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "lyublyana.covell@icloud.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "3.229.120.100",
+    "recipient-domain": "icloud.com",
+    "id": "Wxwh81TrT0-i7xXckQoLPw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"5ebe19f3-45e0-4e81-9fe4-b52df37621ad\",\"category\":[],\"clearance\":[\"Top Secret/SCI\"],\"email\":\"lyublyana.covell@icloud.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Armed Forces Europe\",\"Armed Forces Pacific\",\"Colorado\",\"Ohio\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Armed Forces Europe, Armed Forces Pacific, Colorado, Ohio | Workplace: Remote, Hybrid, On-Site | Clearance: Top Secret/SCI (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "lyublyana.covell@icloud.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T19:08:17.087Z",
+    "sort-values": [
+      1781636897087,
+      "Wxwh81TrT0-i7xXckQoLPw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "lyublyana.covell@icloud.com",
+        "message-id": "20260616190817.d505b40144241195@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 932
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQc5o3iJm-pL6lZLhZrBCbEuTA11ag",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQc5o3iJm-pL6lZLhZrBCbEuTA11ag"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 Ok: queued as F2FBAC00096",
+      "mx-host": "mx02.mail.icloud.com",
+      "mx-host-ip": "17.42.251.62",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 4.033,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.524,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "lyublyana.covell@icloud.com"
+    },
+    "recipient-domain": "icloud.com",
+    "recipient-provider": "Apple",
+    "id": "xDBie7UnQPm6y1r_VYY_Rw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"5ebe19f3-45e0-4e81-9fe4-b52df37621ad\",\"category\":[],\"clearance\":[\"Top Secret/SCI\"],\"email\":\"lyublyana.covell@icloud.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Armed Forces Europe\",\"Armed Forces Pacific\",\"Colorado\",\"Ohio\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Armed Forces Europe, Armed Forces Pacific, Colorado, Ohio | Workplace: Remote, Hybrid, On-Site | Clearance: Top Secret/SCI (sent weekly)\",\"workplace\":[\"Remote\",\"Hybrid\",\"On-Site\"]}",
+    "recipient": "lyublyana.covell@icloud.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T19:08:21.447Z",
+    "sort-values": [
+      1781636901447,
+      "xDBie7UnQPm6y1r_VYY_Rw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0",
+      "bot": "apple"
+    },
+    "geolocation": {
+      "city": "Dallas",
+      "country": "US",
+      "region": "TX",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616025919.125267542ede9636@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "yahoo.com",
+    "recipient-provider": "Yahoo US",
+    "delivered-at": "Tue, 16 Jun 2026 02:59:19 +0000",
+    "id": "vfMnRX8PSLqzimEqbBe7MQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"e3be1274-2600-492c-8d0b-fe64bc397a10\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\",\\\"Agency Clearance\\\"]\",\"email\":\"shaopengsun@yahoo.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Workplace: Remote | Clearance: No Clearance, Public Trust, Agency Clearance (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "shaopengsun@yahoo.com",
+    "ip": "172.226.81.25",
+    "event": "opened",
+    "@timestamp": "2026-06-16T19:08:55.191Z",
+    "sort-values": [
+      1781636935191,
+      "vfMnRX8PSLqzimEqbBe7MQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "unknown",
+      "client-os": "unknown",
+      "client-type": "unknown",
+      "device-type": "unknown",
+      "user-agent": "Mozilla/5.0"
+    },
+    "geolocation": {
+      "city": "Atlanta",
+      "country": "US",
+      "region": "GA",
+      "timezone": "America/New_York"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616190817.d505b40144241195@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "icloud.com",
+    "recipient-provider": "Apple",
+    "delivered-at": "Tue, 16 Jun 2026 19:08:17 +0000",
+    "id": "WSA9kEa0R-uQ6HDLr1HS_Q",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"5ebe19f3-45e0-4e81-9fe4-b52df37621ad\",\"category\":\"[]\",\"clearance\":\"[\\\"Top Secret/SCI\\\"]\",\"email\":\"lyublyana.covell@icloud.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"Armed Forces Europe\\\",\\\"Armed Forces Pacific\\\",\\\"Colorado\\\",\\\"Ohio\\\"]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Location: Armed Forces Europe, Armed Forces Pacific, Colorado, Ohio | Workplace: Remote, Hybrid, On-Site | Clearance: Top Secret/SCI (sent weekly)\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\",\\\"On-Site\\\"]\"}",
+    "recipient": "lyublyana.covell@icloud.com",
+    "ip": "172.226.168.41",
+    "event": "opened",
+    "@timestamp": "2026-06-16T19:10:39.146Z",
+    "sort-values": [
+      1781637039146,
+      "WSA9kEa0R-uQ6HDLr1HS_Q"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260612175031.1c64867d4888083d@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Fri, 12 Jun 2026 17:50:31 +0000",
+    "id": "BodZtCuaRgG8sBUEo1EAmQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"5634fb8b-5644-40ba-9881-3185b3d00762\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\"]\",\"email\":\"Jeradiah3@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Type: Full Time | Workplace: Remote | Clearance: No Clearance, Public Trust (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "Jeradiah3@gmail.com",
+    "ip": "74.125.209.131",
+    "event": "opened",
+    "@timestamp": "2026-06-16T19:39:49.892Z",
+    "sort-values": [
+      1781638789892,
+      "BodZtCuaRgG8sBUEo1EAmQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "lal0311@klhwb.com",
+        "message-id": "20260616202444.b9e9ef872c8479fa@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1246
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAdAFL-wsQCMXiFOIIbRBIG8_aOVZg",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAdAFL-wsQCMXiFOIIbRBIG8_aOVZg"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "lal0311@klhwb.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "3.84.234.66",
+    "recipient-domain": "klhwb.com",
+    "id": "th3Lp4lhQHiJuD3uwYskxg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"34cd68be-95f6-4481-8618-b64c4bf3d739\",\"category\":[\"Aviation Systems\",\"Business Controls\",\"Communications\",\"Customer Service\",\"Cyber Security\",\"Growth\",\"Information Technology\",\"Knowledge Mgmt\",\"Operations\",\"Project Management\",\"Scientific, Research & Analysis\",\"Supply Chain\"],\"clearance\":[\"Secret\"],\"email\":\"lal0311@klhwb.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Armed Forces Pacific\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: Armed Forces Pacific | Category: Aviation Systems, Business Controls, Communications, Customer Service, Cyber Security, Growth, Information Technology, Knowledge Mgmt, Operations, Project Management, Scientific, Research & Analysis, Supply Chain | Type: Full Time | Clearance: Secret (sent weekly)\",\"workplace\":[]}",
+    "recipient": "lal0311@klhwb.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T20:24:44.115Z",
+    "sort-values": [
+      1781641484115,
+      "th3Lp4lhQHiJuD3uwYskxg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "lal0311@klhwb.com",
+        "message-id": "20260616202444.b9e9ef872c8479fa@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1246
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-east4",
+      "env": "production",
+      "key": "BAABAAdAFL-wsQCMXiFOIIbRBIG8_aOVZg",
+      "url": [
+        "https://storage-us-east4.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAAdAFL-wsQCMXiFOIIbRBIG8_aOVZg"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 Ok: queued as 799638007F",
+      "mx-host": "mx2-us1.ppe-hosted.com",
+      "mx-host-ip": "67.231.154.163",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 0.492,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.362,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "69.72.42.248",
+      "targets": "lal0311@klhwb.com"
+    },
+    "recipient-domain": "klhwb.com",
+    "recipient-provider": "Other",
+    "id": "TqQkW6JvSB2u8Aj8vOw3oQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"34cd68be-95f6-4481-8618-b64c4bf3d739\",\"category\":[\"Aviation Systems\",\"Business Controls\",\"Communications\",\"Customer Service\",\"Cyber Security\",\"Growth\",\"Information Technology\",\"Knowledge Mgmt\",\"Operations\",\"Project Management\",\"Scientific, Research & Analysis\",\"Supply Chain\"],\"clearance\":[\"Secret\"],\"email\":\"lal0311@klhwb.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Armed Forces Pacific\"],\"position_type\":[\"Full Time\"],\"search_summary\":\"Filters: Location: Armed Forces Pacific | Category: Aviation Systems, Business Controls, Communications, Customer Service, Cyber Security, Growth, Information Technology, Knowledge Mgmt, Operations, Project Management, Scientific, Research & Analysis, Supply Chain | Type: Full Time | Clearance: Secret (sent weekly)\",\"workplace\":[]}",
+    "recipient": "lal0311@klhwb.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T20:24:44.616Z",
+    "sort-values": [
+      1781641484616,
+      "TqQkW6JvSB2u8Aj8vOw3oQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260610113056.86a7e4ede99b0ace@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "alumni.twu.edu",
+    "recipient-provider": "Google Workspace",
+    "i-delivery-optimizer": "click_heatmap",
+    "delivered-at": "Wed, 10 Jun 2026 12:18:20 +0000",
+    "id": "81UTPWGUTXe0jKErcVC6xQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"df31caa5-8d09-419c-8c30-bee3928a07d6\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\"]\",\"job_count\":\"2\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/hsl-sector-cto-austin-texas-167401-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=2\\\",\\\"location\\\":\\\"Texas\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"HSL Sector CTO\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/business-unit-vp-dha-va-austin-texas-167404-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=2\\\",\\\"location\\\":\\\"Texas\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Business Unit VP - DHA/VA\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"Texas\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\"]\"}",
+    "recipient": "tasha.eller@alumni.twu.edu",
+    "ip": "66.102.7.204",
+    "event": "opened",
+    "@timestamp": "2026-06-16T20:35:34.813Z",
+    "sort-values": [
+      1781642134813,
+      "81UTPWGUTXe0jKErcVC6xQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "Mobile Safari",
+      "client-os": "iOS",
+      "client-type": "mobile browser",
+      "device-type": "mobile",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1"
+    },
+    "geolocation": {
+      "city": "Melissa",
+      "country": "US",
+      "region": "TX",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260610113056.86a7e4ede99b0ace@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "alumni.twu.edu",
+    "recipient-provider": "Google Workspace",
+    "i-delivery-optimizer": "click_heatmap",
+    "delivered-at": "Wed, 10 Jun 2026 12:18:20 +0000",
+    "id": "N4UeuSCcTe-XGjluU5AoHQ",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"df31caa5-8d09-419c-8c30-bee3928a07d6\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\"]\",\"job_count\":\"2\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/hsl-sector-cto-austin-texas-167401-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=2\\\",\\\"location\\\":\\\"Texas\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"HSL Sector CTO\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/business-unit-vp-dha-va-austin-texas-167404-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=2\\\",\\\"location\\\":\\\"Texas\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Business Unit VP - DHA/VA\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"Texas\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\"]\"}",
+    "recipient": "tasha.eller@alumni.twu.edu",
+    "ip": "12.244.161.182",
+    "url": "https://careers.peraton.com/jobs/hsl-sector-cto-austin-texas-167401-jobs--project-management--?iis=HireClix&iisn=JobAlert&pos=1&count=2",
+    "event": "clicked",
+    "@timestamp": "2026-06-16T20:36:04.683Z",
+    "sort-values": [
+      1781642164683,
+      "N4UeuSCcTe-XGjluU5AoHQ"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "Mobile Safari",
+      "client-os": "iOS",
+      "client-type": "mobile browser",
+      "device-type": "mobile",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1"
+    },
+    "geolocation": {
+      "city": "Melissa",
+      "country": "US",
+      "region": "TX",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260610113056.86a7e4ede99b0ace@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "alumni.twu.edu",
+    "recipient-provider": "Google Workspace",
+    "i-delivery-optimizer": "click_heatmap",
+    "delivered-at": "Wed, 10 Jun 2026 12:18:20 +0000",
+    "id": "8kIaB9i9Q2yORVrUMDC38g",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"df31caa5-8d09-419c-8c30-bee3928a07d6\",\"category\":\"[]\",\"clearance\":\"[\\\"No Clearance\\\"]\",\"job_count\":\"2\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/hsl-sector-cto-austin-texas-167401-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=1\\u0026count=2\\\",\\\"location\\\":\\\"Texas\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"HSL Sector CTO\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"No Clearance\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/business-unit-vp-dha-va-austin-texas-167404-jobs--project-management--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=2\\\",\\\"location\\\":\\\"Texas\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Business Unit VP - DHA/VA\\\",\\\"workplace\\\":\\\"Flexible for occasional telework \u2013 must be local to work location\\\"}]\",\"keyword\":\"[]\",\"location\":\"[\\\"Texas\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"workplace\":\"[\\\"Remote\\\",\\\"Hybrid\\\"]\"}",
+    "recipient": "tasha.eller@alumni.twu.edu",
+    "ip": "12.244.161.182",
+    "url": "https://careers.peraton.com/jobs/business-unit-vp-dha-va-austin-texas-167404-jobs--project-management--?iis=HireClix&iisn=JobAlert&pos=2&count=2",
+    "event": "clicked",
+    "@timestamp": "2026-06-16T20:36:48.558Z",
+    "sort-values": [
+      1781642208558,
+      "8kIaB9i9Q2yORVrUMDC38g"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "Anthony.feige@outlook.com",
+        "message-id": "20260616204842.9973ebcfb7cfca44@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1096
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQfaO9eN-TmSdzFAOqYHfPCyhZSyag",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQfaO9eN-TmSdzFAOqYHfPCyhZSyag"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "Anthony.feige@outlook.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "13.222.31.112",
+    "recipient-domain": "outlook.com",
+    "id": "NKKOR8i1THWNFG6Taffc7g",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"3d11937b-54cb-45c5-9f43-b9e8b0d33b92\",\"category\":[\"Consulting\",\"Human Resources\",\"Intel and Threat Analysis\",\"Operations\",\"Production\",\"Project Management\"],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Secret\",\"Top Secret\",\"Top Secret/SCI\"],\"email\":\"Anthony.feige@outlook.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Virginia\"],\"position_type\":[],\"search_summary\":\"Filters: Location: D.C., Virginia | Category: Consulting, Human Resources, Intel and Threat Analysis, Operations, Production, Project Management | Clearance: No Clearance, Public Trust, Secret, Top Secret, Top Secret/SCI (sent weekly)\",\"workplace\":[]}",
+    "recipient": "Anthony.feige@outlook.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T20:48:42.842Z",
+    "sort-values": [
+      1781642922842,
+      "NKKOR8i1THWNFG6Taffc7g"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "Anthony.feige@outlook.com",
+        "message-id": "20260616204842.9973ebcfb7cfca44@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 1096
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQfaO9eN-TmSdzFAOqYHfPCyhZSyag",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQfaO9eN-TmSdzFAOqYHfPCyhZSyag"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.6.0 <20260616204842.9973ebcfb7cfca44@peratonjobalerts.com> [InternalId=47901770281388, Hostname=IA4P223MB1524.NAMP223.PROD.OUTLOOK.COM] 72410 bytes in 0.485, 145.648 KB/sec Queued mail for delivery -> 250 2.1.5",
+      "mx-host": "outlook-com.olc.protection.outlook.com",
+      "mx-host-ip": "52.101.73.17",
+      "enhanced-code": "2.6.0",
+      "session-seconds": 2.89,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.569,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "143.55.232.45",
+      "targets": "Anthony.feige@outlook.com"
+    },
+    "recipient-domain": "outlook.com",
+    "recipient-provider": "Outlook US",
+    "id": "tx6LVQ8CTRCy7NY9hLFkJg",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"3d11937b-54cb-45c5-9f43-b9e8b0d33b92\",\"category\":[\"Consulting\",\"Human Resources\",\"Intel and Threat Analysis\",\"Operations\",\"Production\",\"Project Management\"],\"clearance\":[\"No Clearance\",\"Public Trust\",\"Secret\",\"Top Secret\",\"Top Secret/SCI\"],\"email\":\"Anthony.feige@outlook.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"D.C.\",\"Virginia\"],\"position_type\":[],\"search_summary\":\"Filters: Location: D.C., Virginia | Category: Consulting, Human Resources, Intel and Threat Analysis, Operations, Production, Project Management | Clearance: No Clearance, Public Trust, Secret, Top Secret, Top Secret/SCI (sent weekly)\",\"workplace\":[]}",
+    "recipient": "Anthony.feige@outlook.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T20:48:46.105Z",
+    "sort-values": [
+      1781642926105,
+      "tx6LVQ8CTRCy7NY9hLFkJg"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616184055.969f4248b3b4ad9f@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 18:40:55 +0000",
+    "id": "gMXFupECQeKL6Ym1l1TwSw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b694a9ee-4431-432f-b6ec-6fd4edeb61cc\",\"category\":\"[\\\"Administrative\\\",\\\"Executive\\\",\\\"Project Management\\\",\\\"Quality Assurance\\\"]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\"]\",\"email\":\"heartcaca@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"California\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: California | Category: Administrative, Executive, Project Management, Quality Assurance | Type: Full Time | Workplace: Remote | Clearance: No Clearance, Public Trust (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "heartcaca@gmail.com",
+    "ip": "74.125.209.136",
+    "event": "opened",
+    "@timestamp": "2026-06-16T21:17:01.684Z",
+    "sort-values": [
+      1781644621684,
+      "gMXFupECQeKL6Ym1l1TwSw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616184055.969f4248b3b4ad9f@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 18:40:55 +0000",
+    "id": "E-OFN_7tQ6qONRP2GRwsKA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"b694a9ee-4431-432f-b6ec-6fd4edeb61cc\",\"category\":\"[\\\"Administrative\\\",\\\"Executive\\\",\\\"Project Management\\\",\\\"Quality Assurance\\\"]\",\"clearance\":\"[\\\"No Clearance\\\",\\\"Public Trust\\\"]\",\"email\":\"heartcaca@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"California\\\"]\",\"position_type\":\"[\\\"Full Time\\\"]\",\"search_summary\":\"Filters: Location: California | Category: Administrative, Executive, Project Management, Quality Assurance | Type: Full Time | Workplace: Remote | Clearance: No Clearance, Public Trust (sent weekly)\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "heartcaca@gmail.com",
+    "ip": "74.125.209.134",
+    "event": "opened",
+    "@timestamp": "2026-06-16T21:27:59.792Z",
+    "sort-values": [
+      1781645279792,
+      "E-OFN_7tQ6qONRP2GRwsKA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "tironialicia@gmail.com",
+        "message-id": "20260616223916.d9f6d32007574536@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 705
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQeg4IEg0JbMiINCTLNyuJnDu11lYQ",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQeg4IEg0JbMiINCTLNyuJnDu11lYQ"
+      ]
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "targets": "tironialicia@gmail.com"
+    },
+    "api-key-id": "c5ea400f-87c07c26",
+    "originating-ip": "52.87.88.103",
+    "recipient-domain": "gmail.com",
+    "id": "JK-7WN8ESXaA4icdrH31Mw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"05df2e05-0e3b-4e3c-b01a-231af0b5bf38\",\"category\":[],\"clearance\":[],\"email\":\"tironialicia@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Arizona\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Arizona (sent weekly)\",\"workplace\":[]}",
+    "recipient": "tironialicia@gmail.com",
+    "method": "HTTP",
+    "event": "accepted",
+    "@timestamp": "2026-06-16T22:39:16.488Z",
+    "sort-values": [
+      1781649556488,
+      "JK-7WN8ESXaA4icdrH31Mw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "flags": {
+      "is-authenticated": true,
+      "is-system-test": false,
+      "is-routed": false,
+      "is-test-mode": false,
+      "is-delayed-bounce": false,
+      "is-callback": false,
+      "is-webhook": false
+    },
+    "message": {
+      "headers": {
+        "to": "tironialicia@gmail.com",
+        "message-id": "20260616223916.d9f6d32007574536@peratonjobalerts.com",
+        "from": "Peraton Careers <noreply@peratonjobalerts.com>",
+        "subject": "Welcome! Your Job Alert is Active"
+      },
+      "size": 705
+    },
+    "template": {
+      "name": "intro-email"
+    },
+    "storage": {
+      "region": "us-west1",
+      "env": "production",
+      "key": "BAABAQeg4IEg0JbMiINCTLNyuJnDu11lYQ",
+      "url": [
+        "https://storage-us-west1.api.mailgun.net/v3/domains/peratonjobalerts.com/messages/BAABAQeg4IEg0JbMiINCTLNyuJnDu11lYQ"
+      ]
+    },
+    "delivery-status": {
+      "message": "2.0.0 OK  1781649569 a92af1059eb24-1384b85b661si51251121c88.0 - gsmtp",
+      "mx-host": "alt1.gmail-smtp-in.l.google.com",
+      "mx-host-ip": "108.177.123.26",
+      "enhanced-code": "2.0.0",
+      "session-seconds": 13.287,
+      "code": 250,
+      "first-delivery-attempt-seconds": 0.183,
+      "attempt-no": 1,
+      "certificate-verified": true,
+      "tls": true,
+      "utf8": true
+    },
+    "envelope": {
+      "sender": "noreply@peratonjobalerts.com",
+      "transport": "smtp",
+      "sending-ip": "143.55.232.45",
+      "targets": "tironialicia@gmail.com"
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "id": "4BqJ3aWiRva2VDyMTBzeXw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"05df2e05-0e3b-4e3c-b01a-231af0b5bf38\",\"category\":[],\"clearance\":[],\"email\":\"tironialicia@gmail.com\",\"frequency\":\"weekly\",\"keyword\":[],\"location\":[\"Arizona\"],\"position_type\":[],\"search_summary\":\"Filters: Location: Arizona (sent weekly)\",\"workplace\":[]}",
+    "recipient": "tironialicia@gmail.com",
+    "primary-dkim": "pdk1._domainkey.peratonjobalerts.com",
+    "event": "delivered",
+    "@timestamp": "2026-06-16T22:39:29.780Z",
+    "sort-values": [
+      1781649569780,
+      "4BqJ3aWiRva2VDyMTBzeXw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260603113112.c6d9b70aba1d3b1c@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "i-delivery-optimizer": "open_heatmap",
+    "delivered-at": "Wed, 03 Jun 2026 15:14:25 +0000",
+    "id": "vkPW0_b6R9GRYANjb9p9iA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"26305879-1767-4da5-98dc-4bb1d1c1bdce\",\"category\":\"[]\",\"clearance\":\"[]\",\"job_count\":\"5\",\"jobs\":\"[{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Secret\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"\\\",\\\"location\\\":\\\"USA / ARMED FORCES\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Application Development Scrum Master (Journeyman)\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/cyber-systems-engineering-advisor-undefined-undefined-167130-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=2\\u0026count=100\\\",\\\"location\\\":\\\"USA / ARMED FORCES\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Cyber Systems Engineering, Advisor\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/radar-site-advisor-undefined-undefined-164907-jobs--engineering--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=3\\u0026count=100\\\",\\\"location\\\":\\\"USA / ARMED FORCES\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Radar Site Advisor\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/site-security-officer-manager-undefined-undefined-167268-jobs--cyber-security--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=4\\u0026count=100\\\",\\\"location\\\":\\\"USA / ARMED FORCES\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Site Security Officer, Manager\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"},{\\\"category\\\":\\\"\\\",\\\"clearance\\\":\\\"Public Trust\\\",\\\"description\\\":\\\"\\\",\\\"job_url\\\":\\\"https://careers.peraton.com/jobs/senior-cloud-operations-lead-undefined-undefined-166448-jobs--information-technology--?iis=HireClix\\u0026iisn=JobAlert\\u0026pos=5\\u0026count=100\\\",\\\"location\\\":\\\"USA / ARMED FORCES\\\",\\\"pay_range\\\":\\\"\\\",\\\"title\\\":\\\"Senior Cloud Operations Lead\\\",\\\"workplace\\\":\\\"Remote work allowed 100%\\\"}]\",\"keyword\":\"[]\",\"location\":\"[]\",\"position_type\":\"[]\",\"workplace\":\"[\\\"Remote\\\"]\"}",
+    "recipient": "georgianahicks@gmail.com",
+    "ip": "66.102.7.204",
+    "event": "opened",
+    "@timestamp": "2026-06-16T22:50:07.689Z",
+    "sort-values": [
+      1781650207689,
+      "vkPW0_b6R9GRYANjb9p9iA"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616223916.d9f6d32007574536@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 22:39:16 +0000",
+    "id": "KRLIXwmQSHa-PN6_Qp_plw",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"05df2e05-0e3b-4e3c-b01a-231af0b5bf38\",\"category\":\"[]\",\"clearance\":\"[]\",\"email\":\"tironialicia@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"Arizona\\\"]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Location: Arizona (sent weekly)\",\"workplace\":\"[]\"}",
+    "recipient": "tironialicia@gmail.com",
+    "ip": "74.125.209.136",
+    "event": "opened",
+    "@timestamp": "2026-06-16T22:59:30.099Z",
+    "sort-values": [
+      1781650770099,
+      "KRLIXwmQSHa-PN6_Qp_plw"
+    ]
+  },
+  {
+    "domain": {
+      "name": "peratonjobalerts.com"
+    },
+    "account": {
+      "id": "680fe21a805b609fc70a1d3d",
+      "name": "HireClix"
+    },
+    "client-info": {
+      "client-name": "GmailImageProxy",
+      "client-os": "Windows",
+      "client-type": "unknown",
+      "device-type": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+    },
+    "geolocation": {
+      "city": "Unknown",
+      "country": "US",
+      "region": "Unknown",
+      "timezone": "America/Chicago"
+    },
+    "message": {
+      "headers": {
+        "message-id": "20260616223916.d9f6d32007574536@peratonjobalerts.com"
+      }
+    },
+    "recipient-domain": "gmail.com",
+    "recipient-provider": "Gmail",
+    "delivered-at": "Tue, 16 Jun 2026 22:39:16 +0000",
+    "id": "t_IS9j8pQwyLRHCH-C4IaA",
+    "log-level": "info",
+    "user-variables": "{\"alert_id\":\"05df2e05-0e3b-4e3c-b01a-231af0b5bf38\",\"category\":\"[]\",\"clearance\":\"[]\",\"email\":\"tironialicia@gmail.com\",\"frequency\":\"weekly\",\"keyword\":\"[]\",\"location\":\"[\\\"Arizona\\\"]\",\"position_type\":\"[]\",\"search_summary\":\"Filters: Location: Arizona (sent weekly)\",\"workplace\":\"[]\"}",
+    "recipient": "tironialicia@gmail.com",
+    "ip": "74.125.209.134",
+    "event": "opened",
+    "@timestamp": "2026-06-16T22:59:53.882Z",
+    "sort-values": [
+      1781650793882,
+      "t_IS9j8pQwyLRHCH-C4IaA"
+    ]
+  }
+]

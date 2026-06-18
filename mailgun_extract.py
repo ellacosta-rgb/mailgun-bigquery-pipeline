@@ -63,7 +63,8 @@ def fetch_page(pagination):
             "include_subaccounts": True,
             "include_totals": True,
             "pagination": pagination
-        }
+        },
+        timeout=60,
     )
     if response.status_code == 429:
         print("Rate limited, retrying...")
@@ -71,6 +72,14 @@ def fetch_page(pagination):
     if response.status_code == 401:
         print("Error: Invalid API key")
         sys.exit(1)
+    if response.status_code >= 500 or not response.text.strip():
+        print(f"Mailgun API error {response.status_code}, retrying...")
+        raise Exception(f"Bad response: {response.status_code}")
+    try:
+        response.json()
+    except requests.exceptions.JSONDecodeError:
+        print(f"Invalid JSON from Mailgun (status {response.status_code}), retrying...")
+        raise Exception("Invalid JSON response")
     return response
 
 # Paginate through all results
